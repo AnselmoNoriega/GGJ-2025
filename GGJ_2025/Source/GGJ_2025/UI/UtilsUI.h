@@ -16,4 +16,7 @@ class GGJ_2025_API UUtilsUI : public UBlueprintFunctionLibrary
 public:
 	UFUNCTION(BlueprintCallable, meta = (ToolTip = "Changes Window Mode", CompactNodeTitle = "Change Window Mode"))
 	static EWindowMode::Type ChangeWindowMode(EWindowMode::Type mode, bool isAdding);
+
+	UFUNCTION(BlueprintCallable, meta = (ToolTip = "Changes Index, with min and max exclusives", CompactNodeTitle = "Change Index"))
+	static int ChangeIndex(int index, bool isAdding, int min, int max);
 };

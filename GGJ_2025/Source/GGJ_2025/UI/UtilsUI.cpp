@@ -17,3 +17,18 @@ EWindowMode::Type UUtilsUI::ChangeWindowMode(EWindowMode::Type mode, bool isAddi
 
     return isAdding ? EWindowMode::Type((int)mode + 1) : EWindowMode::Type((int)mode - 1);
 }
+
+int UUtilsUI::ChangeIndex(int index, bool isAdding, int min, int max)
+{
+    if (index == min && !isAdding)
+    {
+        return max;
+    }
+
+    if (index == max && isAdding)
+    {
+        return min;
+    }
+
+    return isAdding ? index + 1 : index - 1;
+}
