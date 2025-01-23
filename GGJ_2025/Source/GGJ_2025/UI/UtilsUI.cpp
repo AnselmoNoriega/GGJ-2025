@@ -7,10 +7,10 @@ EWindowMode::Type UUtilsUI::ChangeWindowMode(EWindowMode::Type mode, bool isAddi
 {
     if (mode == EWindowMode::Type::Fullscreen && !isAdding)
     {
-        return EWindowMode::Type::NumWindowModes;
+        return EWindowMode::Type::Windowed;
     }
 
-    if (mode == EWindowMode::Type::NumWindowModes && isAdding)
+    if (mode == EWindowMode::Type::Windowed && isAdding)
     {
         return EWindowMode::Type::Fullscreen;
     }
