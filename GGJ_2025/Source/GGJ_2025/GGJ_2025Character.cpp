@@ -11,8 +11,6 @@
 #include "InputActionValue.h"
 #include "Engine/LocalPlayer.h"
 
-#include "GameFramework/PlayerController.h"
-#include "Kismet/GameplayStatics.h"
 
 DEFINE_LOG_CATEGORY(LogTemplateCharacter);
 
@@ -72,7 +70,7 @@ void AGGJ_2025Character::SetupPlayerInputComponent(UInputComponent* PlayerInputC
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &AGGJ_2025Character::Look);
 
 		// Looking
-		EnhancedInputComponent->BindAction(PauseAction, ETriggerEvent::Started, this, &AGGJ_2025Character::Pause);
+		//EnhancedInputComponent->BindAction(PauseAction, ETriggerEvent::Started, this, &AGGJ_2025Character::Pause);
 	}
 	else
 	{
@@ -105,21 +103,4 @@ void AGGJ_2025Character::Look(const FInputActionValue& Value)
 		AddControllerYawInput(LookAxisVector.X);
 		AddControllerPitchInput(LookAxisVector.Y);
 	}
-}
-
-void AGGJ_2025Character::Pause(const FInputActionValue& Value)
-{
-	APlayerController* playerController = Cast<APlayerController>(GetController());
-
-	UUserWidget* widget = CreateWidget<UUserWidget>(playerController, WidgetClass);
-	widget->AddToViewport();
-
-
-	UGameplayStatics::SetGamePaused(GetWorld(), true);
-	playerController->bShowMouseCursor = true;
-
-	FInputModeUIOnly InputMode;
-	InputMode.SetWidgetToFocus(widget->TakeWidget());
-	InputMode.SetLockMouseToViewportBehavior(EMouseLockMode::DoNotLock);
-	playerController->SetInputMode(InputMode);
 }

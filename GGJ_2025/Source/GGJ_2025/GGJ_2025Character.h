@@ -2,8 +2,6 @@
 
 #pragma once
 
-#include "Blueprint/UserWidget.h"
-
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "Logging/LogMacros.h"
@@ -46,14 +44,6 @@ class AGGJ_2025Character : public ACharacter
 	/** Look Input Action */
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
 	class UInputAction* LookAction;
-
-	/** Pause Input Action (Testing) */
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
-	class UInputAction* PauseAction;
-
-	/** UI (Testing) */
-	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "UI", meta = (AllowPrivateAccess = "true"))
-	TSubclassOf<UUserWidget> WidgetClass;
 	
 public:
 	AGGJ_2025Character();
@@ -64,9 +54,6 @@ protected:
 
 	/** Called for looking input */
 	void Look(const FInputActionValue& Value);
-
-	/** Called for looking input */
-	void Pause(const FInputActionValue& Value);
 
 protected:
 	// APawn interface
