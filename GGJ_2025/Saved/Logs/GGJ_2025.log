@@ -2000,3 +2000,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.24-18.30.29:026][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2025.01.24-18.30.29:033][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
 [2025.01.24-18.30.29:076][888]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.01.24-18.31.29:167][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 332.656372
+[2025.01.24-18.31.30:166][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-18.31.30:166][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 333.323883, Update Interval: 320.947906
+[2025.01.24-18.36.12:908][ 83]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.01.24-18.36.12:908][ 83]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.01.24-18.36.12:908][ 83]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Developers/lcv2212506/Collections/' because it could not be accessed. Aborting watch request...
+[2025.01.24-18.36.53:257][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 656.750549
+[2025.01.24-18.36.54:257][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-18.36.54:257][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 657.416016, Update Interval: 332.406982
+[2025.01.24-18.42.33:647][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 997.143494
+[2025.01.24-18.42.34:646][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-18.42.34:646][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 997.809937, Update Interval: 325.745422
+[2025.01.24-18.48.15:365][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1338.865479
+[2025.01.24-18.48.16:365][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-18.48.16:365][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1339.531982, Update Interval: 327.995850
