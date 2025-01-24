@@ -1704,3 +1704,437 @@ Make sure 'OptionsMenu' has been compiled for  Change Window Mode
 [2025.01.24-17.35.33:475][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.24-17.35.33:475][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.24-17.35.33:476][903]AssetCheck: /Game/Game/UI/OptionsMenu Validating asset
+[2025.01.24-17.35.52:320][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:320][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:320][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Index  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:320][337]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Input pin  Is Adding  specifying non-default value no longer exists on node  Change Index . Please refresh node or reset pin to default value to remove pin.
+[2025.01.24-17.35.52:320][337]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Input pin  Max  specifying non-default value no longer exists on node  Change Index . Please refresh node or reset pin to default value to remove pin.
+[2025.01.24-17.35.52:320][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Could not find a function named "ChangeIndex" in 'OptionsMenu'.
+Make sure 'OptionsMenu' has been compiled for  Change Index
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Index  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Input pin  Max  specifying non-default value no longer exists on node  Change Index . Please refresh node or reset pin to default value to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Could not find a function named "ChangeIndex" in 'OptionsMenu'.
+Make sure 'OptionsMenu' has been compiled for  Change Index
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Index  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Input pin  Is Adding  specifying non-default value no longer exists on node  Change Index . Please refresh node or reset pin to default value to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Input pin  Max  specifying non-default value no longer exists on node  Change Index . Please refresh node or reset pin to default value to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Could not find a function named "ChangeIndex" in 'OptionsMenu'.
+Make sure 'OptionsMenu' has been compiled for  Change Index
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Index  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Input pin  Max  specifying non-default value no longer exists on node  Change Index . Please refresh node or reset pin to default value to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Change Index . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Could not find a function named "ChangeIndex" in 'OptionsMenu'.
+Make sure 'OptionsMenu' has been compiled for  Change Index
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Window Mode . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Window Mode . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Mode  no longer exists on node  Change Window Mode . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Input pin  Is Adding  specifying non-default value no longer exists on node  Change Window Mode . Please refresh node or reset pin to default value to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Change Window Mode . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Could not find a function named "ChangeWindowMode" in 'OptionsMenu'.
+Make sure 'OptionsMenu' has been compiled for  Change Window Mode
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Window Mode . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Change Window Mode . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Mode  no longer exists on node  Change Window Mode . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] In use pin  Return Value  no longer exists on node  Change Window Mode . Please refresh node or break links to remove pin.
+[2025.01.24-17.35.52:321][337]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Game\UI\OptionsMenu.uasset: [Compiler] Could not find a function named "ChangeWindowMode" in 'OptionsMenu'.
+Make sure 'OptionsMenu' has been compiled for  Change Window Mode
+[2025.01.24-17.35.52:359][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.24-17.36.11:305][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 324.027405
+[2025.01.24-17.36.11:408][180]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-17.36.11:409][180]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 324.120667, Update Interval: 323.859375
+[2025.01.24-17.38.24:371][ 13]LogSlate: Window 'Message Log' being destroyed
+[2025.01.24-17.38.24:374][ 13]LogSlate: Window 'Message Log' being destroyed
+[2025.01.24-17.38.31:138][450]LogSlate: Window 'OptionsMenu' being destroyed
+[2025.01.24-17.38.46:158][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.01.24-17.38.46:159][193]LogStreaming: Display: FlushAsyncLoading(606): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.24-17.38.46:165][193]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.24-17.38.46:166][193]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.01.24-17.38.46:166][193]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.24-17.38.46:166][193]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.24-17.38.46:187][193]LogWorldPartition: Display: WorldPartition initialize took 21.084 ms (total: 82.076 ms)
+[2025.01.24-17.38.46:190][193]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.01.24-17.38.46:190][193]Cmd: MAP LOAD FILE="../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.24-17.38.46:234][193]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-17.38.46:234][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-17.38.46:252][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.24-17.38.46:253][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.24-17.38.46:253][193]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-17.38.46:254][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-17.38.46:254][193]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.01.24-17.38.46:312][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.01.24-17.38.46:323][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.01.24-17.38.46:329][193]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2025.01.24-17.38.46:329][193]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.24-17.38.46:330][193]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.01.24-17.38.46:330][193]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.24-17.38.46:330][193]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.24-17.38.46:351][193]LogWorldPartition: Display: WorldPartition initialize took 19.966 ms (total: 102.043 ms)
+[2025.01.24-17.38.46:362][193]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.24-17.38.46:378][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.24-17.38.46:386][193]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.24-17.38.46:387][193]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.485ms to complete.
+[2025.01.24-17.38.47:828][351]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-17.38.47:831][351]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.24-17.38.47:831][351]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.24-17.38.47:834][351]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.652 ms
+[2025.01.24-17.38.47:834][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-17.38.47:834][351]BlueprintLog: Warning: Blueprint failed to compile:  OptionsMenu
+[2025.01.24-17.38.51:023][351]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.01.24-17.38.53:209][577]LogSlate: Window 'Message Log' being destroyed
+[2025.01.24-17.38.53:212][577]LogSlate: Window 'Message Log' being destroyed
+[2025.01.24-17.41.38:954][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 651.675781
+[2025.01.24-17.41.39:954][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-17.41.39:954][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 652.342834, Update Interval: 347.954956
+[2025.01.24-17.43.39:335][263]LogEditorTransaction: Undo Delete current selection
+[2025.01.24-17.44.39:686][565]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.39:890][566]LogEditorTransaction: Undo Move Nodes
+[2025.01.24-17.44.40:089][567]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.40:272][568]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.40:471][569]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.40:501][569]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.40:629][570]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.40:784][571]LogEditorTransaction: Undo Create Pin Link
+[2025.01.24-17.44.40:946][572]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.41:106][573]LogEditorTransaction: Undo Create Pin Link
+[2025.01.24-17.44.41:263][574]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.41:419][575]LogEditorTransaction: Undo Add Node
+[2025.01.24-17.44.41:573][576]LogEditorTransaction: Undo Add Node
+[2025.01.24-17.44.41:755][579]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.41:927][580]LogEditorTransaction: Undo Move Nodes
+[2025.01.24-17.44.42:087][581]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.42:266][584]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.42:481][590]LogEditorTransaction: Undo Change Number Pin Value
+[2025.01.24-17.44.42:643][591]LogEditorTransaction: Undo Change Number Pin Value
+[2025.01.24-17.44.42:828][595]LogEditorTransaction: Undo Add Node
+[2025.01.24-17.44.43:029][600]LogEditorTransaction: Undo Delete current selection
+[2025.01.24-17.44.43:185][601]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.43:338][602]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.43:530][606]LogEditorTransaction: Undo Create Pin Link
+[2025.01.24-17.44.43:757][608]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.43:960][609]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.44:158][610]LogEditorTransaction: Undo Add Node
+[2025.01.24-17.44.44:342][611]LogEditorTransaction: Undo Add Node
+[2025.01.24-17.44.44:503][612]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.44.44:806][619]LogEditorTransaction: Undo Change Number Pin Value
+[2025.01.24-17.44.45:143][640]LogEditorTransaction: Undo Add Node
+[2025.01.24-17.44.45:402][654]LogEditorTransaction: Undo Move Nodes
+[2025.01.24-17.44.48:247][962]LogEditorTransaction: Redo Move Nodes
+[2025.01.24-17.44.49:528][ 59]LogEditorTransaction: Undo Move Nodes
+[2025.01.24-17.45.50:217][ 84]LogEditorTransaction: Undo Move Nodes
+[2025.01.24-17.45.51:495][177]LogEditorTransaction: Undo Paste clipboard contents
+[2025.01.24-17.46.19:577][408]LogEditorTransaction: Undo Delete current selection
+[2025.01.24-17.46.45:978][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-17.46.46:010][309]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Game/UI/OptionsMenu] ([2] browsable assets)...
+[2025.01.24-17.46.46:016][309]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Game/UI/OptionsMenu.OptionsMenu]
+[2025.01.24-17.46.46:016][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/UI/OptionsMenu]
+[2025.01.24-17.46.46:016][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/OptionsMenu" FILE="../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/UI/OptionsMenu.uasset" SILENT=true
+[2025.01.24-17.46.46:041][309]LogSavePackage: Moving output files for package: /Game/Game/UI/OptionsMenu
+[2025.01.24-17.46.46:041][309]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/OptionsMenuFC14BD4A412BE9F57DE2AF90210F9966.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/UI/OptionsMenu.uasset'
+[2025.01.24-17.46.46:047][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.570 ms (total: 194.954 ms)
+[2025.01.24-17.46.46:093][309]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.24-17.46.46:093][309]LogContentValidation: Enabled validators:
+[2025.01.24-17.46.46:093][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.24-17.46.46:093][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.24-17.46.46:093][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.24-17.46.46:093][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.24-17.46.46:093][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.24-17.46.46:093][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.24-17.46.46:094][309]AssetCheck: /Game/Game/UI/OptionsMenu Validating asset
+[2025.01.24-17.47.34:008][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1006.729919
+[2025.01.24-17.47.34:107][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-17.47.34:107][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1006.821838, Update Interval: 344.944611
+[2025.01.24-17.49.36:246][998]LogEditorTransaction: Undo Move Node
+[2025.01.24-17.50.39:448][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-17.50.39:505][201]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Game/UI/OptionsMenu] ([2] browsable assets)...
+[2025.01.24-17.50.39:507][201]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Game/UI/OptionsMenu.OptionsMenu]
+[2025.01.24-17.50.39:507][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/UI/OptionsMenu]
+[2025.01.24-17.50.39:507][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/UI/OptionsMenu" FILE="../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/UI/OptionsMenu.uasset" SILENT=true
+[2025.01.24-17.50.39:533][201]LogSavePackage: Moving output files for package: /Game/Game/UI/OptionsMenu
+[2025.01.24-17.50.39:533][201]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/OptionsMenuFF859CF24D7E6725C1A9D0B8A623ADAA.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/UI/OptionsMenu.uasset'
+[2025.01.24-17.50.39:539][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.305 ms (total: 285.260 ms)
+[2025.01.24-17.50.39:568][201]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.24-17.50.39:568][201]LogContentValidation: Enabled validators:
+[2025.01.24-17.50.39:568][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.24-17.50.39:568][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.24-17.50.39:568][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.24-17.50.39:568][201]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.24-17.50.39:568][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.24-17.50.39:568][201]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.24-17.50.39:570][201]AssetCheck: /Game/Game/UI/OptionsMenu Validating asset
+[2025.01.24-17.50.40:547][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.24-17.50.44:443][690]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-17.50.44:446][690]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.24-17.50.44:446][690]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.24-17.50.44:449][690]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.483 ms (total: 5.135 ms)
+[2025.01.24-17.50.44:449][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-17.50.44:453][690]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.01.24-17.50.44:453][690]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.01.24-17.50.44:455][690]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.24-17.50.44:459][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004565s)
+[2025.01.24-17.50.44:459][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004604s)
+[2025.01.24-17.50.44:477][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.24-17.50.44:480][690]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.24-17.50.44:481][690]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.24-17.50.44:481][690]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.24-17.50.44:481][690]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.24-17.50.44:481][690]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.24-17.50.44:483][690]LogWorldPartition: Display: WorldPartition initialize took 1.404 ms (total: 103.447 ms)
+[2025.01.24-17.50.44:483][690]LogPlayLevel: PIE: World Init took: (0.003071s)
+[2025.01.24-17.50.44:483][690]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.01.24-17.50.44:483][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-17.50.44:483][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-17.50.44:483][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-17.50.44:483][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-17.50.44:483][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.24-17.50.44:483][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-17.50.44:483][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.24-17.50.44:483][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-17.50.44:483][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-17.50.44:483][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-17.50.44:483][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-17.50.44:485][690]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-17.50.44:495][690]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.24-17.50.44:495][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-17.50.44:495][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-17.50.44:495][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-17.50.44:495][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.01.24-17.50.44:495][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.01.24-17.50.44:497][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.01.24-17.50.44:497][690]LogInit: FAudioDevice initialized with ID 2.
+[2025.01.24-17.50.44:497][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.01.24-17.50.44:497][690]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.01.24-17.50.44:497][690]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.24-17.50.44:501][690]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.24-17.50.44:503][690]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.24-09.50.44
+[2025.01.24-17.50.44:503][690]LogWorld: Bringing up level for play took: 0.002171
+[2025.01.24-17.50.44:505][690]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.01.24-17.50.44:518][690]PIE: Server logged in
+[2025.01.24-17.50.44:519][690]PIE: Play in editor total start time 0.073 seconds.
+[2025.01.24-17.50.47:929][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-17.50.47:930][ 68]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.24-17.50.47:930][ 68]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-17.50.47:930][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-17.50.47:930][ 68]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.24-17.50.47:934][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-17.50.47:936][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-17.50.47:950][ 68]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.24-17.50.47:950][ 68]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.01.24-17.50.47:950][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.24-17.50.47:952][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.01.24-17.50.47:955][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-17.50.47:958][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.24-17.50.48:015][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.01.24-17.50.54:753][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.01.24-17.50.54:755][855]LogStreaming: Display: FlushAsyncLoading(740): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.24-17.50.54:770][855]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.01.24-17.50.54:772][855]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Game/Levels/MainMenu.MainMenu
+[2025.01.24-17.50.54:772][855]Cmd: MAP LOAD FILE="../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.01.24-17.50.54:830][855]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-17.50.54:831][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-17.50.54:831][855]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.01.24-17.50.54:898][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.24-17.50.54:901][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.24-17.50.54:902][855]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-17.50.54:902][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-17.50.54:916][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.01.24-17.50.54:928][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.24-17.50.54:941][855]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2025.01.24-17.50.54:941][855]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.01.24-17.50.54:951][855]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.01.24-17.50.54:965][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.01.24-17.50.54:973][855]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.01.24-17.50.54:974][855]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2025.01.24-17.50.56:494][ 25]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-17.50.56:497][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-17.50.56:528][ 25]LogPlayLevel: Creating play world package: /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.24-17.50.56:529][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000828s)
+[2025.01.24-17.50.56:529][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Levels/MainMenu.MainMenu to /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.000865s)
+[2025.01.24-17.50.56:541][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.24-17.50.56:541][ 25]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.01.24-17.50.56:542][ 25]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2025.01.24-17.50.56:543][ 25]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.01.24-17.50.56:543][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-17.50.56:543][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-17.50.56:543][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-17.50.56:543][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-17.50.56:543][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.24-17.50.56:543][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-17.50.56:543][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.24-17.50.56:543][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-17.50.56:543][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-17.50.56:543][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-17.50.56:543][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-17.50.56:546][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-17.50.56:554][ 25]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.24-17.50.56:554][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-17.50.56:554][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-17.50.56:554][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-17.50.56:555][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.01.24-17.50.56:555][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.01.24-17.50.56:556][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.01.24-17.50.56:557][ 25]LogInit: FAudioDevice initialized with ID 3.
+[2025.01.24-17.50.56:557][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.01.24-17.50.56:557][ 25]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2025.01.24-17.50.56:557][ 25]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.24-17.50.56:558][ 25]LogLoad: Game class is 'MenuGameMode_C'
+[2025.01.24-17.50.56:558][ 25]LogWorld: Bringing World /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.01.24-09.50.56
+[2025.01.24-17.50.56:559][ 25]LogWorld: Bringing up level for play took: 0.000275
+[2025.01.24-17.50.56:560][ 25]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.01.24-17.50.56:562][ 25]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.24-17.50.56:562][ 25]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.24-17.50.56:563][ 25]PIE: Server logged in
+[2025.01.24-17.50.56:564][ 25]PIE: Play in editor total start time 0.067 seconds.
+[2025.01.24-17.51.05:360][ 73]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.TSR.Resurrection:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.DetailMode:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2025.01.24-17.51.05:360][ 73]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:8]]
+[2025.01.24-17.51.05:361][ 73]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:128]]
+[2025.01.24-17.51.05:361][ 73]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.01.24-17.51.05:361][ 73]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2025.01.24-17.51.05:361][ 73]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2025.01.24-17.51.05:361][ 73]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2025.01.24-17.51.05:361][ 73]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2025.01.24-17.51.05:361][ 73]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.01.24-17.51.05:361][ 73]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.01.24-17.51.05:361][ 73]LogConfig: Applying CVar settings from Section [LandscapeQuality@0] File [Scalability]
+[2025.01.24-17.51.05:415][ 78]LogContentStreaming: Texture pool size now 400 MB
+[2025.01.24-17.51.05:415][ 78]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="400"
+[2025.01.24-17.51.07:591][339]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.24-17.51.07:591][339]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.01.24-17.51.07:591][339]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap"
+[2025.01.24-17.51.07:591][339]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.24-17.51.07:591][339]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.24-17.51.07:591][339]LogWorld: BeginTearingDown for /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.24-17.51.07:592][339]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-17.51.07:592][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-17.51.07:640][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.24-17.51.07:641][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.01.24-17.51.07:643][339]LogStreaming: Display: FlushAsyncLoading(742): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.24-17.51.07:647][339]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.01.24-17.51.07:647][339]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.24-17.51.07:648][339]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.24-17.51.07:648][339]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.24-17.51.07:648][339]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.01.24-17.51.07:648][339]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.24-17.51.07:649][339]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.24-17.51.07:652][339]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/FirstPerson/Maps/FirstPersonMap (0xAB684108FF182619) that has been renamed to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap (0x20BFD38F37AC2C58)
+[2025.01.24-17.51.07:661][339]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 11.493 ms (total: 16.628 ms)
+[2025.01.24-17.51.07:662][339]LogWorldPartition: Display: WorldPartition initialize took 13.793 ms (total: 117.240 ms)
+[2025.01.24-17.51.07:662][339]LogPlayLevel: PIE: World Init took: (0.014946s)
+[2025.01.24-17.51.07:662][339]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.24-17.51.07:664][339]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.24-09.51.07
+[2025.01.24-17.51.07:665][339]LogWorld: Bringing up level for play took: 0.002406
+[2025.01.24-17.51.07:666][339]LogLoad: Took 0.075182 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2025.01.24-17.51.07:666][339]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.24-17.51.18:118][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-17.51.18:118][569]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.24-17.51.18:118][569]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-17.51.18:119][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-17.51.18:119][569]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.24-17.51.18:123][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-17.51.18:125][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-17.51.18:141][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-17.51.18:141][569]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.01.24-17.51.18:141][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.24-17.51.18:143][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.01.24-17.51.18:149][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.24-17.51.18:191][572]LogPlayLevel: Display: Destroying online subsystem :Context_4
