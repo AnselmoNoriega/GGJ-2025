@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\ggj-2025\\ggj_2025\\source\\ggj_2025\\ui\\utilsui.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\ggj-2025\\ggj_2025\\intermediate\\build\\win64\\x64\\ggj_2025editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\ggj-2025\\ggj_2025\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ggj_2025\\definitions.ggj_2025.h",
+            "c:\\github\\ggj-2025\\ggj_2025\\source\\ggj_2025\\ui\\utilsui.h",
+            "c:\\github\\ggj-2025\\ggj_2025\\intermediate\\build\\win64\\unrealeditor\\inc\\ggj_2025\\uht\\utilsui.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\ggj-2025\\ggj_2025\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ggj_2025\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\ggj-2025\\ggj_2025\\intermediate\\build\\win64\\x64\\ggj_2025editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\ggj-2025\\ggj_2025\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ggj_2025\\definitions.ggj_2025.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GGJ_2025.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GGJ_2025.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GGJ_2025Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GGJ_2025">
+      <UniqueIdentifier>{F31C1263-857A-3930-AD24-86CD0DF729DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GGJ_2025\GGJ_2025.Build.cs">
+      <Filter>Source\GGJ_2025</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025.cpp">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025.h">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025Character.cpp">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025Character.h">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025GameMode.cpp">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025GameMode.h">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025PickUpComponent.cpp">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025PickUpComponent.h">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025Projectile.cpp">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025Projectile.h">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025WeaponComponent.cpp">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\GGJ_2025WeaponComponent.h">
+      <Filter>Source\GGJ_2025</Filter>
+    </ClCompile>
+    <Filter Include="Source\GGJ_2025\UI">
+      <UniqueIdentifier>{98ECACA6-106F-32DD-88BD-7096DBCC5254}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GGJ_2025\UI\UtilsUI.cpp">
+      <Filter>Source\GGJ_2025\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ_2025\UI\UtilsUI.h">
+      <Filter>Source\GGJ_2025\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
