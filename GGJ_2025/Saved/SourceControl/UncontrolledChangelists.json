@@ -5,7 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Input/IMC_Default.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/FirstPerson/Input/Actions/PauseAction.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Input/Actions/PauseAction.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Input/IMC_Weapons.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Input/MobileControls.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Input/Actions/IA_Move.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Input/Actions/IA_Look.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Input/Actions/IA_Jump.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Levels/FirstPersonMap.umap",
+				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/UI/OptionsMenu.uasset"
 			]
 		}
 	]
