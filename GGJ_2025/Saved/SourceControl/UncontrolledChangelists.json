@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/LCV2122577/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Bubble.uasset",
+				"C:/Users/LCV2122577/Documents/GitHub/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/8V/PS9U9KBT7I7Q4IJ0QD74YC.uasset",
+				"C:/Users/LCV2122577/Documents/GitHub/GGJ-2025/GGJ_2025/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Input/IMC_Default.uasset",
 				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/FirstPerson/Input/Actions/PauseAction.uasset",
