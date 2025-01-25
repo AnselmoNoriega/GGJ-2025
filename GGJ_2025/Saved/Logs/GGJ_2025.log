@@ -2596,3 +2596,505 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.25-07.23.12:435][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.25-07.23.12:435][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.25-07.23.12:435][198]AssetCheck: /Game/ThirdPerson/Blueprints/EnemyControllerAI Validating asset
+[2025.01.25-07.24.23:302][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.25-07.24.23:306][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GK/87X7KYAXN5WZ2MRLMV4OFA_Auto3
+[2025.01.25-07.24.23:306][845]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/87X7KYAXN5WZ2MRLMV4OFA_Auto30B4737BB481B15AF084D3DB3A938C996.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GK/87X7KYAXN5WZ2MRLMV4OFA_Auto3.uasset'
+[2025.01.25-07.24.23:307][845]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2025.01.25-07.24.23:307][845]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2025.01.25-07.24.52:928][535]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.25-07.24.52:928][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.24.52:994][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.25-07.26.30:898][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2125.946289
+[2025.01.25-07.26.31:024][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-07.26.31:024][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2126.064453, Update Interval: 308.452393
+[2025.01.25-07.27.23:743][ 97]LogSlate: Window 'Save Asset As' being destroyed
+[2025.01.25-07.27.23:761][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Gameplay/AI/Tasks/FocusTarget.FocusTarget
+[2025.01.25-07.27.23:762][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2025.01.25-07.27.23:862][ 97]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Game/Gameplay/AI/Tasks/FocusTarget.
+[2025.01.25-07.29.05:872][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.29.05:906][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Tasks/FocusTarget] ([2] browsable assets)...
+[2025.01.25-07.29.05:906][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Tasks/FocusTarget]
+[2025.01.25-07.29.05:906][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/Tasks/FocusTarget" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset" SILENT=true
+[2025.01.25-07.29.05:908][518]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/Tasks/FocusTarget
+[2025.01.25-07.29.05:908][518]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/FocusTarget629B316B4B1106F27FA419ACA415ACF5.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset'
+[2025.01.25-07.29.05:909][518]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Game/Gameplay/AI/Tasks/FocusTarget.
+[2025.01.25-07.29.05:921][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.679 ms (total: 1.51 sec)
+[2025.01.25-07.29.05:957][518]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.29.05:957][518]LogContentValidation: Enabled validators:
+[2025.01.25-07.29.05:957][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.29.05:957][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.29.05:957][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.29.05:957][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.29.05:957][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.29.05:957][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.29.05:958][518]AssetCheck: /Game/Game/Gameplay/AI/Tasks/FocusTarget Validating asset
+[2025.01.25-07.29.49:225][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.25-07.29.49:233][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.29.49:270][ 43]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GK/87X7KYAXN5WZ2MRLMV4OFA
+[2025.01.25-07.29.49:271][ 43]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/87X7KYAXN5WZ2MRLMV4OFAB4C6417347025C988F6B498B19E2E21A.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GK/87X7KYAXN5WZ2MRLMV4OFA.uasset'
+[2025.01.25-07.29.49:272][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Tasks/FocusTarget] ([2] browsable assets)...
+[2025.01.25-07.29.49:272][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Tasks/FocusTarget]
+[2025.01.25-07.29.49:272][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/Tasks/FocusTarget" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset" SILENT=true
+[2025.01.25-07.29.49:275][ 43]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/Tasks/FocusTarget
+[2025.01.25-07.29.49:276][ 43]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/FocusTargetD25145474466E6883F55B6946F40C359.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset'
+[2025.01.25-07.29.49:285][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.523 ms (total: 1.56 sec)
+[2025.01.25-07.29.49:324][ 43]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.25-07.29.49:324][ 43]LogContentValidation: Enabled validators:
+[2025.01.25-07.29.49:324][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.29.49:324][ 43]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.29.49:324][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.29.49:324][ 43]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.29.49:324][ 43]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.29.49:324][ 43]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.29.49:324][ 43]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.01.25-07.29.49:324][ 43]AssetCheck: /Game/Game/Gameplay/AI/Tasks/FocusTarget Validating asset
+[2025.01.25-07.29.56:986][638]LogStreaming: Display: FlushAsyncLoading(607): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.25-07.30.18:511][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.30.18:548][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/EnemyBaseTree] ([1] browsable assets)...
+[2025.01.25-07.30.18:548][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/EnemyBaseTree]
+[2025.01.25-07.30.18:548][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/EnemyBaseTree" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset" SILENT=true
+[2025.01.25-07.30.18:551][375]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/EnemyBaseTree
+[2025.01.25-07.30.18:551][375]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyBaseTree5B183BAA4F6A57B49774E4B959537D5B.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset'
+[2025.01.25-07.30.18:560][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.077 ms (total: 1.61 sec)
+[2025.01.25-07.30.18:594][375]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.30.18:594][375]LogContentValidation: Enabled validators:
+[2025.01.25-07.30.18:594][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.30.18:594][375]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.30.18:594][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.30.18:594][375]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.30.18:594][375]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.30.18:594][375]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.30.18:594][375]AssetCheck: /Game/Game/Gameplay/AI/EnemyBaseTree Validating asset
+[2025.01.25-07.30.20:691][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.30.20:726][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Tasks/FocusTarget] ([2] browsable assets)...
+[2025.01.25-07.30.20:726][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Tasks/FocusTarget]
+[2025.01.25-07.30.20:726][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/Tasks/FocusTarget" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset" SILENT=true
+[2025.01.25-07.30.20:728][624]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/Tasks/FocusTarget
+[2025.01.25-07.30.20:729][624]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/FocusTarget64200F2F4EB9315479A5F890AA1AFF46.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset'
+[2025.01.25-07.30.20:739][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.300 ms (total: 1.66 sec)
+[2025.01.25-07.30.20:784][624]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.30.20:784][624]LogContentValidation: Enabled validators:
+[2025.01.25-07.30.20:784][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.30.20:784][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.30.20:784][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.30.20:784][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.30.20:784][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.30.20:784][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.30.20:784][624]AssetCheck: /Game/Game/Gameplay/AI/Tasks/FocusTarget Validating asset
+[2025.01.25-07.30.21:208][674]LogBlueprint: Error: [AssetLog] C:\Github\GGJ-2025\GGJ_2025\Content\Game\Gameplay\AI\Tasks\FocusTarget.uasset: [Compiler] This blueprint (self) is not a AIController, therefore ' Target ' must have a connection.
+[2025.01.25-07.30.21:243][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.25-07.30.34:029][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.25-07.30.41:800][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.30.41:836][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/EnemyBaseTree] ([1] browsable assets)...
+[2025.01.25-07.30.41:836][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/EnemyBaseTree]
+[2025.01.25-07.30.41:836][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/EnemyBaseTree" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset" SILENT=true
+[2025.01.25-07.30.41:838][328]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/EnemyBaseTree
+[2025.01.25-07.30.41:839][328]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyBaseTree7FB1B08341260A84A02DCE86A1D8526C.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset'
+[2025.01.25-07.30.41:848][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.207 ms (total: 1.71 sec)
+[2025.01.25-07.30.41:882][328]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.30.41:882][328]LogContentValidation: Enabled validators:
+[2025.01.25-07.30.41:882][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.30.41:882][328]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.30.41:882][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.30.41:882][328]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.30.41:882][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.30.41:882][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.30.41:882][328]AssetCheck: /Game/Game/Gameplay/AI/EnemyBaseTree Validating asset
+[2025.01.25-07.31.15:126][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.31.15:160][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Tasks/FocusTarget] ([2] browsable assets)...
+[2025.01.25-07.31.15:160][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Tasks/FocusTarget]
+[2025.01.25-07.31.15:160][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/Tasks/FocusTarget" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset" SILENT=true
+[2025.01.25-07.31.15:164][923]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/Tasks/FocusTarget
+[2025.01.25-07.31.15:164][923]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/FocusTargetE2B938844CED0FD886124FAB14FFC95E.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset'
+[2025.01.25-07.31.15:173][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.613 ms (total: 1.75 sec)
+[2025.01.25-07.31.15:206][923]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.31.15:206][923]LogContentValidation: Enabled validators:
+[2025.01.25-07.31.15:206][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.31.15:206][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.31.15:206][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.31.15:206][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.31.15:206][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.31.15:206][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.31.15:206][923]AssetCheck: /Game/Game/Gameplay/AI/Tasks/FocusTarget Validating asset
+[2025.01.25-07.31.18:692][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.25-07.31.28:816][447]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.25-07.31.28:821][447]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.25-07.31.28:821][447]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.25-07.31.28:825][447]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.216 ms (total: 22.810 ms)
+[2025.01.25-07.31.28:833][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.25-07.31.28:833][447]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.25-07.31.28:838][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004767s)
+[2025.01.25-07.31.28:838][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004796s)
+[2025.01.25-07.31.28:857][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.25-07.31.28:860][447]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.25-07.31.28:862][447]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.25-07.31.28:862][447]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.25-07.31.28:862][447]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.25-07.31.28:862][447]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.25-07.31.28:863][447]LogWorldPartition: Display: WorldPartition initialize took 1.744 ms (total: 295.600 ms)
+[2025.01.25-07.31.28:863][447]LogPlayLevel: PIE: World Init took: (0.003244s)
+[2025.01.25-07.31.28:864][447]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.01.25-07.31.28:864][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.25-07.31.28:864][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.25-07.31.28:864][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.25-07.31.28:864][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.25-07.31.28:864][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.25-07.31.28:864][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.25-07.31.28:864][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.25-07.31.28:864][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.25-07.31.28:864][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.25-07.31.28:864][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.25-07.31.28:864][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.25-07.31.28:867][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.25-07.31.28:884][447]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Xbox Controller)
+[2025.01.25-07.31.28:885][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.25-07.31.28:885][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.25-07.31.28:885][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.25-07.31.28:885][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.01.25-07.31.28:885][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.01.25-07.31.28:887][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.01.25-07.31.28:887][447]LogInit: FAudioDevice initialized with ID 10.
+[2025.01.25-07.31.28:887][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.01.25-07.31.28:887][447]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2025.01.25-07.31.28:887][447]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.25-07.31.28:890][447]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.25-07.31.28:893][447]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.24-23.31.28
+[2025.01.25-07.31.28:894][447]LogWorld: Bringing up level for play took: 0.002886
+[2025.01.25-07.31.28:895][447]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.01.25-07.31.28:900][447]PIE: Server logged in
+[2025.01.25-07.31.28:902][447]PIE: Play in editor total start time 0.08 seconds.
+[2025.01.25-07.32.00:595][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.32.00:595][ 39]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.25-07.32.00:595][ 39]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.25-07.32.00:596][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.32.00:596][ 39]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.25-07.32.00:600][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.25-07.32.00:605][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.32.00:624][ 39]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.25-07.32.00:625][ 39]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.01.25-07.32.00:625][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.25-07.32.00:626][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.01.25-07.32.00:630][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.32.00:633][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.25-07.32.00:651][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.01.25-07.32.08:330][952]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.25-07.32.08:336][952]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.25-07.32.08:336][952]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.25-07.32.08:338][952]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.386 ms (total: 25.197 ms)
+[2025.01.25-07.32.08:347][952]LogPlayLevel: [PlayLevel] Compiling FocusTarget before play...
+[2025.01.25-07.32.08:385][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.25-07.32.08:388][952]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2025.01.25-07.32.08:388][952]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.25-07.32.08:393][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004260s)
+[2025.01.25-07.32.08:393][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004288s)
+[2025.01.25-07.32.08:411][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.25-07.32.08:412][952]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.25-07.32.08:413][952]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.25-07.32.08:413][952]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.25-07.32.08:413][952]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.25-07.32.08:413][952]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.25-07.32.08:415][952]LogWorldPartition: Display: WorldPartition initialize took 1.641 ms (total: 297.242 ms)
+[2025.01.25-07.32.08:415][952]LogPlayLevel: PIE: World Init took: (0.003102s)
+[2025.01.25-07.32.08:416][952]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.01.25-07.32.08:416][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.25-07.32.08:416][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.25-07.32.08:416][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.25-07.32.08:416][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.25-07.32.08:416][952]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.25-07.32.08:416][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.25-07.32.08:416][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.25-07.32.08:416][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.25-07.32.08:417][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.25-07.32.08:417][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.25-07.32.08:417][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.25-07.32.08:419][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.25-07.32.08:434][952]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Xbox Controller)
+[2025.01.25-07.32.08:436][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.25-07.32.08:436][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.25-07.32.08:436][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.25-07.32.08:436][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.01.25-07.32.08:436][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.01.25-07.32.08:439][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.01.25-07.32.08:439][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.01.25-07.32.08:439][952]LogInit: FAudioDevice initialized with ID 11.
+[2025.01.25-07.32.08:439][952]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2025.01.25-07.32.08:439][952]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.25-07.32.08:468][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.32.08:468][952]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.25-07.32.08:472][952]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.24-23.32.08
+[2025.01.25-07.32.08:473][952]LogWorld: Bringing up level for play took: 0.004769
+[2025.01.25-07.32.08:476][952]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.01.25-07.32.08:481][952]PIE: Server logged in
+[2025.01.25-07.32.08:481][952]PIE: Play in editor total start time 0.146 seconds.
+[2025.01.25-07.32.17:598][998]LogBlueprintUserMessages: [BP_Rifle_C_1] Cast to BP_FirstPersonCharacter FAILED
+[2025.01.25-07.32.21:592][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.32.21:592][462]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.25-07.32.21:593][462]LogSlate: Window 'GGJ_2025 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.25-07.32.21:601][462]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.25-07.32.21:602][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.32.21:602][462]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.25-07.32.21:606][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.25-07.32.21:611][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.32.21:632][462]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.01.25-07.32.21:632][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.25-07.32.21:634][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.01.25-07.32.21:643][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.25-07.32.21:663][463]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.01.25-07.32.29:262][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2484.328369
+[2025.01.25-07.32.30:262][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-07.32.30:262][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2484.995117, Update Interval: 307.811523
+[2025.01.25-07.33.05:949][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.33.05:974][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/Gameplay/BP_EnemyAI] ([2] browsable assets)...
+[2025.01.25-07.33.06:051][160]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Game/Gameplay/BP_EnemyAI.BP_EnemyAI]
+[2025.01.25-07.33.06:051][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/BP_EnemyAI]
+[2025.01.25-07.33.06:051][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/BP_EnemyAI" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset" SILENT=true
+[2025.01.25-07.33.06:058][160]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/BP_EnemyAI
+[2025.01.25-07.33.06:058][160]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/BP_EnemyAIC880C1AE46DF66DD8F1406BB462556AA.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset'
+[2025.01.25-07.33.06:070][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.678 ms (total: 1.87 sec)
+[2025.01.25-07.33.06:103][160]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.33.06:104][160]LogContentValidation: Enabled validators:
+[2025.01.25-07.33.06:104][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.33.06:104][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.33.06:104][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.33.06:104][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.33.06:104][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.33.06:104][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.33.06:104][160]AssetCheck: /Game/Game/Gameplay/BP_EnemyAI Validating asset
+[2025.01.25-07.33.07:270][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.33.07:309][297]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/BP_EnemyAI] ([2] browsable assets)...
+[2025.01.25-07.33.07:309][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/BP_EnemyAI]
+[2025.01.25-07.33.07:309][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/BP_EnemyAI" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset" SILENT=true
+[2025.01.25-07.33.07:315][297]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/BP_EnemyAI
+[2025.01.25-07.33.07:315][297]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/BP_EnemyAI3DA0678948561D04A9B1F681A2403A01.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset'
+[2025.01.25-07.33.07:325][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.678 ms (total: 1.93 sec)
+[2025.01.25-07.33.07:362][297]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.33.07:362][297]LogContentValidation: Enabled validators:
+[2025.01.25-07.33.07:362][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.33.07:362][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.33.07:362][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.33.07:362][297]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.33.07:362][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.33.07:362][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.33.07:362][297]AssetCheck: /Game/Game/Gameplay/BP_EnemyAI Validating asset
+[2025.01.25-07.33.08:372][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.25-07.33.14:816][564]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.25-07.33.14:821][564]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.25-07.33.14:821][564]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.25-07.33.14:824][564]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.245 ms (total: 27.443 ms)
+[2025.01.25-07.33.14:832][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.25-07.33.14:866][564]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.25-07.33.14:870][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004178s)
+[2025.01.25-07.33.14:870][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004214s)
+[2025.01.25-07.33.14:889][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.25-07.33.14:894][564]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.25-07.33.14:896][564]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.25-07.33.14:896][564]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.25-07.33.14:896][564]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.25-07.33.14:896][564]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.25-07.33.14:898][564]LogWorldPartition: Display: WorldPartition initialize took 1.814 ms (total: 299.056 ms)
+[2025.01.25-07.33.14:898][564]LogPlayLevel: PIE: World Init took: (0.003339s)
+[2025.01.25-07.33.14:899][564]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.01.25-07.33.14:899][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.25-07.33.14:899][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.25-07.33.14:899][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.25-07.33.14:899][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.25-07.33.14:899][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.25-07.33.14:899][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.25-07.33.14:899][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.25-07.33.14:899][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.25-07.33.14:899][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.25-07.33.14:899][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.25-07.33.14:899][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.25-07.33.14:901][564]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.25-07.33.14:918][564]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Xbox Controller)
+[2025.01.25-07.33.14:918][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.25-07.33.14:918][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.25-07.33.14:918][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.25-07.33.14:919][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.01.25-07.33.14:919][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.01.25-07.33.14:921][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.01.25-07.33.14:921][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.01.25-07.33.14:921][564]LogInit: FAudioDevice initialized with ID 12.
+[2025.01.25-07.33.14:921][564]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2025.01.25-07.33.14:921][564]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.01.25-07.33.14:925][564]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.25-07.33.14:927][564]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.24-23.33.14
+[2025.01.25-07.33.14:927][564]LogWorld: Bringing up level for play took: 0.002986
+[2025.01.25-07.33.14:930][564]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.01.25-07.33.14:934][564]PIE: Server logged in
+[2025.01.25-07.33.14:936][564]PIE: Play in editor total start time 0.115 seconds.
+[2025.01.25-07.33.23:333][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.33.23:333][131]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.25-07.33.23:334][131]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.25-07.33.23:334][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.33.23:334][131]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.25-07.33.23:337][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.25-07.33.23:343][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.33.23:362][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.25-07.33.23:362][131]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.01.25-07.33.23:362][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.01.25-07.33.23:364][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.01.25-07.33.23:368][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.33.23:371][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.25-07.33.23:444][132]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.01.25-07.33.47:625][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.33.47:661][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/EnemyBaseTree] ([1] browsable assets)...
+[2025.01.25-07.33.47:661][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/EnemyBaseTree]
+[2025.01.25-07.33.47:661][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/EnemyBaseTree" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset" SILENT=true
+[2025.01.25-07.33.47:663][483]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/EnemyBaseTree
+[2025.01.25-07.33.47:664][483]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyBaseTreeE4C78E2E4172A34A132F178AD575E01D.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset'
+[2025.01.25-07.33.47:674][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.268 ms (total: 1.98 sec)
+[2025.01.25-07.33.47:714][483]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.33.47:714][483]LogContentValidation: Enabled validators:
+[2025.01.25-07.33.47:714][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.33.47:714][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.33.47:714][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.33.47:714][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.33.47:714][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.33.47:714][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.33.47:714][483]AssetCheck: /Game/Game/Gameplay/AI/EnemyBaseTree Validating asset
+[2025.01.25-07.34.07:988][366]LogSlate: Window 'Save Asset As' being destroyed
+[2025.01.25-07.34.08:007][366]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Gameplay/AI/Tasks/ClearFocus.ClearFocus
+[2025.01.25-07.34.08:008][366]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2025.01.25-07.34.08:091][366]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Game/Gameplay/AI/Tasks/ClearFocus.
+[2025.01.25-07.34.35:577][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.34.35:613][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Tasks/ClearFocus] ([2] browsable assets)...
+[2025.01.25-07.34.35:613][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Tasks/ClearFocus]
+[2025.01.25-07.34.35:613][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/Tasks/ClearFocus" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/ClearFocus.uasset" SILENT=true
+[2025.01.25-07.34.35:615][276]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/Tasks/ClearFocus
+[2025.01.25-07.34.35:615][276]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/ClearFocus2901CEEB4756E7EBBCBF51A22B9C9241.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/ClearFocus.uasset'
+[2025.01.25-07.34.35:616][276]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Game/Gameplay/AI/Tasks/ClearFocus.
+[2025.01.25-07.34.35:629][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.701 ms (total: 2.03 sec)
+[2025.01.25-07.34.35:659][276]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.34.35:659][276]LogContentValidation: Enabled validators:
+[2025.01.25-07.34.35:659][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.34.35:659][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.34.35:659][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.34.35:659][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.34.35:659][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.34.35:659][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.34.35:659][276]AssetCheck: /Game/Game/Gameplay/AI/Tasks/ClearFocus Validating asset
+[2025.01.25-07.34.40:905][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.34.40:939][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Tasks/FocusTarget] ([2] browsable assets)...
+[2025.01.25-07.34.40:939][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Tasks/FocusTarget]
+[2025.01.25-07.34.40:939][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/Tasks/FocusTarget" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset" SILENT=true
+[2025.01.25-07.34.40:942][591]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/Tasks/FocusTarget
+[2025.01.25-07.34.40:942][591]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/FocusTargetF6F83AC24EFFCE84056D8DA74E2212DB.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/FocusTarget.uasset'
+[2025.01.25-07.34.40:953][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.335 ms (total: 2.08 sec)
+[2025.01.25-07.34.40:984][591]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.34.40:984][591]LogContentValidation: Enabled validators:
+[2025.01.25-07.34.40:984][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.34.40:984][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.34.40:984][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.34.40:984][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.34.40:984][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.34.40:984][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.34.40:984][591]AssetCheck: /Game/Game/Gameplay/AI/Tasks/FocusTarget Validating asset
+[2025.01.25-07.34.51:376][825]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.25-07.35.14:202][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.35.14:237][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Tasks/ClearFocus] ([2] browsable assets)...
+[2025.01.25-07.35.14:237][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Tasks/ClearFocus]
+[2025.01.25-07.35.14:237][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/Tasks/ClearFocus" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/ClearFocus.uasset" SILENT=true
+[2025.01.25-07.35.14:239][ 99]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/Tasks/ClearFocus
+[2025.01.25-07.35.14:239][ 99]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/ClearFocus1C431C454156C7D2C0204DA78DEBA6CB.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/ClearFocus.uasset'
+[2025.01.25-07.35.14:249][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.423 ms (total: 2.12 sec)
+[2025.01.25-07.35.14:282][ 99]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.35.14:282][ 99]LogContentValidation: Enabled validators:
+[2025.01.25-07.35.14:282][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.35.14:282][ 99]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.35.14:282][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.35.14:282][ 99]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.35.14:282][ 99]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.35.14:282][ 99]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.35.14:282][ 99]AssetCheck: /Game/Game/Gameplay/AI/Tasks/ClearFocus Validating asset
+[2025.01.25-07.35.15:056][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.25-07.35.15:062][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.35.15:098][186]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GK/87X7KYAXN5WZ2MRLMV4OFA
+[2025.01.25-07.35.15:099][186]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/87X7KYAXN5WZ2MRLMV4OFA0D5521914752006193AD56846BE0BB7F.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GK/87X7KYAXN5WZ2MRLMV4OFA.uasset'
+[2025.01.25-07.35.15:100][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/EnemyBaseTree] ([1] browsable assets)...
+[2025.01.25-07.35.15:100][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/EnemyBaseTree]
+[2025.01.25-07.35.15:100][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/EnemyBaseTree" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset" SILENT=true
+[2025.01.25-07.35.15:102][186]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/EnemyBaseTree
+[2025.01.25-07.35.15:103][186]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyBaseTree7EFC4590452EE957D09A69A51B98EFCB.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset'
+[2025.01.25-07.35.15:113][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.887 ms (total: 2.17 sec)
+[2025.01.25-07.35.15:154][186]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.25-07.35.15:154][186]LogContentValidation: Enabled validators:
+[2025.01.25-07.35.15:154][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.35.15:154][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.35.15:154][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.35.15:154][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.35.15:154][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.35.15:154][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.35.15:154][186]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.01.25-07.35.15:154][186]AssetCheck: /Game/Game/Gameplay/AI/EnemyBaseTree Validating asset
+[2025.01.25-07.35.58:649][314]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.25-07.35.58:655][314]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.25-07.35.58:655][314]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.25-07.35.58:657][314]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.123 ms (total: 30.567 ms)
+[2025.01.25-07.35.58:667][314]LogPlayLevel: [PlayLevel] Compiling ClearFocus before play...
+[2025.01.25-07.35.58:708][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.01.25-07.35.58:711][314]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2025.01.25-07.35.58:747][314]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.25-07.35.58:751][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004405s)
+[2025.01.25-07.35.58:751][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004441s)
+[2025.01.25-07.35.58:768][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.25-07.35.58:770][314]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.25-07.35.58:771][314]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.25-07.35.58:771][314]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.25-07.35.58:771][314]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.25-07.35.58:771][314]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.25-07.35.58:773][314]LogWorldPartition: Display: WorldPartition initialize took 1.646 ms (total: 300.702 ms)
+[2025.01.25-07.35.58:773][314]LogPlayLevel: PIE: World Init took: (0.003130s)
+[2025.01.25-07.35.58:773][314]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.01.25-07.35.58:774][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.25-07.35.58:774][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.25-07.35.58:774][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.25-07.35.58:774][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.25-07.35.58:774][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.25-07.35.58:774][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.25-07.35.58:774][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.25-07.35.58:774][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.25-07.35.58:774][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.25-07.35.58:774][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.25-07.35.58:774][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.25-07.35.58:776][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.25-07.35.58:794][314]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Xbox Controller)
+[2025.01.25-07.35.58:794][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.25-07.35.58:794][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.25-07.35.58:794][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.25-07.35.58:794][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.01.25-07.35.58:795][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.01.25-07.35.58:797][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.01.25-07.35.58:797][314]LogInit: FAudioDevice initialized with ID 13.
+[2025.01.25-07.35.58:797][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.01.25-07.35.58:797][314]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2025.01.25-07.35.58:797][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.01.25-07.35.58:801][314]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.25-07.35.58:803][314]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.24-23.35.58
+[2025.01.25-07.35.58:804][314]LogWorld: Bringing up level for play took: 0.002937
+[2025.01.25-07.35.58:805][314]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.01.25-07.35.58:810][314]PIE: Server logged in
+[2025.01.25-07.35.58:812][314]PIE: Play in editor total start time 0.158 seconds.
+[2025.01.25-07.36.07:584][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.36.07:584][915]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.25-07.36.07:585][915]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.25-07.36.07:585][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.36.07:585][915]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.25-07.36.07:589][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.25-07.36.07:593][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.36.07:615][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.36.07:615][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.01.25-07.36.07:615][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.01.25-07.36.07:617][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.01.25-07.36.07:625][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.25-07.36.07:696][916]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.01.25-07.36.32:615][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.25-07.36.32:620][ 88]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.027
+[2025.01.25-07.36.32:620][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/EnemyBaseTree] ([1] browsable assets)...
+[2025.01.25-07.36.32:620][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/EnemyBaseTree]
+[2025.01.25-07.36.32:622][ 88]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/Gameplay/AI/EnemyBaseTree_Auto4
+[2025.01.25-07.36.32:622][ 88]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyBaseTree_Auto4B62F49084563F8D7CCEE92AC20343D0F.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/Autosaves/Game/Game/Gameplay/AI/EnemyBaseTree_Auto4.uasset'
+[2025.01.25-07.36.32:623][ 88]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.01.25-07.38.31:915][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2846.968262
+[2025.01.25-07.38.32:914][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-07.38.32:914][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2847.633789, Update Interval: 321.050446
