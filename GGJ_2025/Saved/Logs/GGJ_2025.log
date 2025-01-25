@@ -3098,3 +3098,75 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.25-07.38.31:915][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2846.968262
 [2025.01.25-07.38.32:914][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.25-07.38.32:914][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2847.633789, Update Interval: 321.050446
+[2025.01.25-07.41.47:073][ 25]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.01.25-16.58.25:075][ 25]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.01.25-16.58.27:679][ 25]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [33395 Seconds] waiting for h/w. InstanceID=1
+[2025.01.25-16.58.27:728][ 25]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.01.25-16.58.28:879][ 25]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek High Definition Audio), InstanceID=1
+[2025.01.25-16.58.31:737][ 25]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: d20...23d
+[2025.01.25-16.58.31:737][ 25]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -2.924e+04 RefreshExpires: 1.547e+07
+[2025.01.25-16.58.33:727][ 26]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.01.25-16.58.38:006][ 26]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=NVIDIA HDMI Out (NVIDIA Virtual Audio Device (Wave Extensible) (WDM)), InstanceID=1
+[2025.01.25-16.58.38:305][ 26]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.25-16.58.38:305][ 26]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28984
+[2025.01.25-16.58.38:327][ 26]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88890004: AUDCLNT_E_DEVICE_INVALIDATED (line: 337) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a45d86e4-eaef-4ba8-8786-e88ea1099c2b} Name=NVIDIA HDMI Out (NVIDIA Virtual Audio Device (Wave Extensible) (WDM)))
+[2025.01.25-16.58.38:337][ 26]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek High Definition Audio), InstanceID=1
+[2025.01.25-16.58.39:784][ 26]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62771'.
+[2025.01.25-16.58.39:791][ 26]LogUdpMessaging: Display: Added local interface '26.156.118.39' to multicast group '230.0.0.1:6666'
+[2025.01.25-16.58.39:791][ 26]LogUdpMessaging: Display: Added local interface '10.0.0.237' to multicast group '230.0.0.1:6666'
+[2025.01.25-16.58.40:219][ 28]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: d20...23d Access[Expires: 2025.01.25-18.58.39 Remaining: 7200.44] Refresh[Expires: 2025-07-23T19:23:54.282Z Remaining: 15474315.28] State: Valid
+[2025.01.25-16.58.40:525][ 29]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.25-16.58.40:529][ 29]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d0e98e4c-8cc7-46df-bb9b-1eedf98465ad}, Name=Realtek Digital Output (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.15
+[2025.01.25-16.58.40:529][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.25-16.58.40:532][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.25-16.58.42:309][ 33]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Xbox Controller), InstanceID=1
+[2025.01.25-16.58.42:635][ 34]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.25-16.58.42:635][ 34]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28984
+[2025.01.25-16.58.43:312][ 36]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.25-16.58.43:315][ 36]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{129d1214-e0ab-4613-83f2-34c5a12ecae5}, Name=Headphones (Xbox Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=631.83
+[2025.01.25-16.58.43:315][ 36]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.25-16.58.43:318][ 36]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.25-16.59.03:323][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36478.531250
+[2025.01.25-16.59.04:320][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-16.59.04:320][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36479.199219, Update Interval: 318.726776
+[2025.01.25-17.00.17:044][318]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek High Definition Audio), InstanceID=1
+[2025.01.25-17.00.17:341][318]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.25-17.00.17:341][318]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28984
+[2025.01.25-17.00.17:673][319]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.25-17.00.17:675][319]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d0e98e4c-8cc7-46df-bb9b-1eedf98465ad}, Name=Realtek Digital Output (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=5.18
+[2025.01.25-17.00.17:675][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.25-17.00.17:678][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.25-17.00.48:173][411]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Xbox Controller), InstanceID=1
+[2025.01.25-17.00.48:343][411]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.01.25-17.00.48:343][411]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28984
+[2025.01.25-17.00.48:677][412]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.01.25-17.00.48:679][412]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{129d1214-e0ab-4613-83f2-34c5a12ecae5}, Name=Headphones (Xbox Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.36
+[2025.01.25-17.00.48:679][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.01.25-17.00.48:681][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.01.25-17.04.59:396][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36834.023438
+[2025.01.25-17.05.00:395][167]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-17.05.00:395][167]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36834.691406, Update Interval: 303.431488
+[2025.01.25-17.09.30:475][978]LogDerivedDataCache: C:/Users/hansh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.25-17.10.52:431][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37186.218750
+[2025.01.25-17.10.53:432][226]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-17.10.53:432][226]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37186.886719, Update Interval: 334.065979
+[2025.01.25-17.17.21:505][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37574.339844
+[2025.01.25-17.17.22:505][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-17.17.22:505][393]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37575.003906, Update Interval: 333.906677
+[2025.01.25-17.19.27:492][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2025.01.25-17.19.27:541][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-17.19.27:601][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/EnemyBaseTree] ([1] browsable assets)...
+[2025.01.25-17.19.27:601][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/EnemyBaseTree]
+[2025.01.25-17.19.27:602][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/EnemyBaseTree" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset" SILENT=true
+[2025.01.25-17.19.27:633][961]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/EnemyBaseTree
+[2025.01.25-17.19.27:635][961]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyBaseTreeB970CE624A917216980D4AA598C112F4.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset'
+[2025.01.25-17.19.27:661][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.388 ms (total: 2.30 sec)
+[2025.01.25-17.19.27:719][961]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-17.19.27:719][961]LogContentValidation: Enabled validators:
+[2025.01.25-17.19.27:719][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-17.19.27:719][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-17.19.27:720][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-17.19.27:720][961]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-17.19.27:720][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-17.19.27:720][961]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-17.19.27:723][961]AssetCheck: /Game/Game/Gameplay/AI/EnemyBaseTree Validating asset
