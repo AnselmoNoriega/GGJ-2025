@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset",
+				"C:/Github/GGJ-2025/GGJ_2025/Content/Game/Animation/CactusEnemy.uasset",
+				"C:/Github/GGJ-2025/GGJ_2025/Content/Game/Animation/CactusEnemyBlending.uasset",
+				"C:/Github/GGJ-2025/GGJ_2025/Content/Game/Animation/CactusEnemyAnim.uasset",
+				"C:/Github/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GK/87X7KYAXN5WZ2MRLMV4OFA.uasset",
+				"C:/Github/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/86/Z1JSZ1734QX6KK0O8EEAZU.uasset",
+				"C:/Github/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/HT/B2CWIHVW9CTRNWVTKKT7GJ.uasset",
 				"C:/Users/LCV2132556/Desktop/GGJ-2025/GGJ_2025/Content/Materials/M_Bubble.uasset",
 				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/FirstPerson/Input/Actions/PauseAction.uasset",
