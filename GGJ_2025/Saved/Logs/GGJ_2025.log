@@ -2635,3 +2635,207 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.25-20.19.04:212][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.25-20.19.04:212][615]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.25-20.19.04:212][615]AssetCheck: /Game/ThirdPerson/Blueprints/EnemyControllerAI Validating asset
+[2025.01.25-20.23.09:855][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6221.779297
+[2025.01.25-20.23.10:855][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-20.23.10:855][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6222.446289, Update Interval: 313.167511
+[2025.01.25-20.26.00:664][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.01.25-20.26.00:667][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Levels/GameplayLevel' took 0.026
+[2025.01.25-20.26.00:667][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/EnemyBaseTree] ([1] browsable assets)...
+[2025.01.25-20.26.00:667][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/EnemyBaseTree]
+[2025.01.25-20.26.00:671][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/Gameplay/AI/EnemyBaseTree_Auto6
+[2025.01.25-20.26.00:671][867]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyBaseTree_Auto65646DC26439E7976822CBB9A0B2C4A88.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/Autosaves/Game/Game/Gameplay/AI/EnemyBaseTree_Auto6.uasset'
+[2025.01.25-20.26.00:671][867]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.01.25-20.26.34:118][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-20.26.34:153][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/EnemyBaseTree] ([1] browsable assets)...
+[2025.01.25-20.26.34:153][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/EnemyBaseTree]
+[2025.01.25-20.26.34:153][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/EnemyBaseTree" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset" SILENT=true
+[2025.01.25-20.26.34:157][837]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/EnemyBaseTree
+[2025.01.25-20.26.34:157][837]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyBaseTree5BCD6B2C42CEF63272C986A95BFB288D.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset'
+[2025.01.25-20.26.34:166][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.938 ms (total: 1.75 sec)
+[2025.01.25-20.26.34:201][837]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-20.26.34:201][837]LogContentValidation: Enabled validators:
+[2025.01.25-20.26.34:201][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-20.26.34:201][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-20.26.34:201][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-20.26.34:201][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-20.26.34:201][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-20.26.34:201][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-20.26.34:201][837]AssetCheck: /Game/Game/Gameplay/AI/EnemyBaseTree Validating asset
+[2025.01.25-20.29.07:620][812]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6579.541016
+[2025.01.25-20.29.07:743][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-20.29.07:743][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6579.657227, Update Interval: 317.538391
+[2025.01.25-20.30.46:684][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-20.30.46:723][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Tasks/PatrolThroughRoute] ([2] browsable assets)...
+[2025.01.25-20.30.46:723][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Tasks/PatrolThroughRoute]
+[2025.01.25-20.30.46:723][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/Tasks/PatrolThroughRoute" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/PatrolThroughRoute.uasset" SILENT=true
+[2025.01.25-20.30.46:727][621]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/Tasks/PatrolThroughRoute
+[2025.01.25-20.30.46:727][621]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/PatrolThroughRoute5AABC2C14C592CDF8707E784661BF407.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Tasks/PatrolThroughRoute.uasset'
+[2025.01.25-20.30.46:736][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.034 ms (total: 1.80 sec)
+[2025.01.25-20.30.46:768][621]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-20.30.46:768][621]LogContentValidation: Enabled validators:
+[2025.01.25-20.30.46:768][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-20.30.46:768][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-20.30.46:768][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-20.30.46:768][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-20.30.46:768][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-20.30.46:768][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-20.30.46:768][621]AssetCheck: /Game/Game/Gameplay/AI/Tasks/PatrolThroughRoute Validating asset
+[2025.01.25-20.33.46:190][ 88]Cmd: TRANSACTION UNDO
+[2025.01.25-20.33.46:190][ 88]LogEditorTransaction: Undo Move Node
+[2025.01.25-20.34.23:768][421]LogStreaming: Display: FlushAsyncLoading(659): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.25-20.34.25:818][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-20.34.25:853][658]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/EnemyBaseTree] ([1] browsable assets)...
+[2025.01.25-20.34.25:853][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/EnemyBaseTree]
+[2025.01.25-20.34.25:853][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/EnemyBaseTree" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset" SILENT=true
+[2025.01.25-20.34.25:856][658]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/EnemyBaseTree
+[2025.01.25-20.34.25:857][658]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyBaseTree1A0B59964F879D437B4910B034B6BA07.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset'
+[2025.01.25-20.34.25:866][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.592 ms (total: 1.85 sec)
+[2025.01.25-20.34.25:900][658]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-20.34.25:900][658]LogContentValidation: Enabled validators:
+[2025.01.25-20.34.25:900][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-20.34.25:900][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-20.34.25:900][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-20.34.25:900][658]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-20.34.25:900][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-20.34.25:900][658]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-20.34.25:901][658]AssetCheck: /Game/Game/Gameplay/AI/EnemyBaseTree Validating asset
+[2025.01.25-20.34.28:133][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.25-20.35.02:118][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6934.045898
+[2025.01.25-20.35.02:248][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-20.35.02:248][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6934.168945, Update Interval: 323.943604
+[2025.01.25-20.36.06:316][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.25-20.36.09:979][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.25-20.36.11:630][280]LogBlueprint: Error: [AssetLog] C:\Github\GGJ-2025\GGJ_2025\Content\Game\Gameplay\AI\Decorators\HasPatrolRoute.uasset: [Compiler] The current value of the ' Image ' pin is invalid: 'Image' in action 'IsValid' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.01.25-20.36.11:667][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.25-20.36.25:364][895]LogBlueprint: Error: [AssetLog] C:\Github\GGJ-2025\GGJ_2025\Content\Game\Gameplay\AI\Decorators\HasPatrolRoute.uasset: [Compiler] The current value of the ' Image ' pin is invalid: 'Image' in action 'IsValid' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.01.25-20.36.25:401][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.01.25-20.37.09:913][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.25-20.37.09:916][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Levels/GameplayLevel' took 0.022
+[2025.01.25-20.37.09:916][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Decorators/HasPatrolRoute] ([2] browsable assets)...
+[2025.01.25-20.37.09:916][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Decorators/HasPatrolRoute]
+[2025.01.25-20.37.09:919][518]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/Gameplay/AI/Decorators/HasPatrolRoute_Auto7
+[2025.01.25-20.37.09:919][518]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/HasPatrolRoute_Auto77963C93041553B0DFC7265BF4FC49BC3.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/Autosaves/Game/Game/Gameplay/AI/Decorators/HasPatrolRoute_Auto7.uasset'
+[2025.01.25-20.37.09:919][518]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.01.25-20.37.49:140][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.25-20.37.50:124][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-20.37.50:155][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Gameplay/AI/Decorators/HasPatrolRoute] ([2] browsable assets)...
+[2025.01.25-20.37.50:155][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/AI/Decorators/HasPatrolRoute]
+[2025.01.25-20.37.50:155][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/AI/Decorators/HasPatrolRoute" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Decorators/HasPatrolRoute.uasset" SILENT=true
+[2025.01.25-20.37.50:159][235]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/AI/Decorators/HasPatrolRoute
+[2025.01.25-20.37.50:159][235]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/HasPatrolRouteAE64B0BD44D9BF0DFE202E8F338B8098.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Decorators/HasPatrolRoute.uasset'
+[2025.01.25-20.37.50:168][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.857 ms (total: 1.89 sec)
+[2025.01.25-20.37.50:202][235]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-20.37.50:202][235]LogContentValidation: Enabled validators:
+[2025.01.25-20.37.50:202][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-20.37.50:202][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-20.37.50:202][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-20.37.50:202][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-20.37.50:202][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-20.37.50:202][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-20.37.50:202][235]AssetCheck: /Game/Game/Gameplay/AI/Decorators/HasPatrolRoute Validating asset
+[2025.01.25-20.37.52:284][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-20.37.52:310][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/EnemyControllerAI] ([2] browsable assets)...
+[2025.01.25-20.37.52:310][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/EnemyControllerAI]
+[2025.01.25-20.37.52:310][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/EnemyControllerAI" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset" SILENT=true
+[2025.01.25-20.37.52:315][479]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/EnemyControllerAI
+[2025.01.25-20.37.52:316][479]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyControllerAID12F4A394803CB04685717A828E911B5.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset'
+[2025.01.25-20.37.52:326][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.230 ms (total: 1.93 sec)
+[2025.01.25-20.37.52:357][479]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-20.37.52:357][479]LogContentValidation: Enabled validators:
+[2025.01.25-20.37.52:357][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-20.37.52:357][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-20.37.52:357][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-20.37.52:357][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-20.37.52:357][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-20.37.52:357][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-20.37.52:358][479]AssetCheck: /Game/ThirdPerson/Blueprints/EnemyControllerAI Validating asset
+[2025.01.25-20.37.57:202][ 53]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: d20...23d
+[2025.01.25-20.37.57:202][ 53]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.546e+07
+[2025.01.25-20.37.57:369][ 73]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: d20...23d Access[Expires: 2025.01.25-22.37.57 Remaining: 7200.50] Refresh[Expires: 2025-07-24T20:37:57.505Z Remaining: 15552000.50] State: Valid
+[2025.01.25-20.41.14:065][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7305.931152
+[2025.01.25-20.41.14:356][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-20.41.14:356][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7306.213867, Update Interval: 342.880951
+[2025.01.25-20.41.16:251][404]LogDerivedDataCache: C:/Users/hansh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.25-20.42.01:385][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-20.42.01:424][308]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/EnemyControllerAI] ([2] browsable assets)...
+[2025.01.25-20.42.01:424][308]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/EnemyControllerAI]
+[2025.01.25-20.42.01:424][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/EnemyControllerAI" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset" SILENT=true
+[2025.01.25-20.42.01:429][308]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/EnemyControllerAI
+[2025.01.25-20.42.01:430][308]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyControllerAIA0F8562947FBD73193BD9CB5A0598FE5.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset'
+[2025.01.25-20.42.01:439][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.009 ms (total: 1.99 sec)
+[2025.01.25-20.42.01:476][308]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-20.42.01:476][308]LogContentValidation: Enabled validators:
+[2025.01.25-20.42.01:476][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-20.42.01:476][308]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-20.42.01:476][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-20.42.01:476][308]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-20.42.01:476][308]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-20.42.01:476][308]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-20.42.01:476][308]AssetCheck: /Game/ThirdPerson/Blueprints/EnemyControllerAI Validating asset
+[2025.01.25-20.42.02:795][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.25-20.42.04:630][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.01.25-20.47.10:082][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.01.25-20.47.10:085][461]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Levels/GameplayLevel' took 0.025
+[2025.01.25-20.47.10:085][461]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/EnemyControllerAI] ([2] browsable assets)...
+[2025.01.25-20.47.10:085][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/EnemyControllerAI]
+[2025.01.25-20.47.10:092][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/EnemyControllerAI_Auto8
+[2025.01.25-20.47.10:092][461]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyControllerAI_Auto8CA10477B4EB5E650BB9C90B6167B3586.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/Autosaves/Game/ThirdPerson/Blueprints/EnemyControllerAI_Auto8.uasset'
+[2025.01.25-20.47.10:095][461]LogFileHelpers: Auto-saving content packages took 0.009
+[2025.01.25-20.47.37:119][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7688.975586
+[2025.01.25-20.47.37:245][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-20.47.37:245][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7689.092285, Update Interval: 329.114655
+[2025.01.25-20.48.27:951][621]LogEditorTransaction: Undo Rename Function
+[2025.01.25-20.48.29:269][733]LogEditorTransaction: Undo Add New Function
+[2025.01.25-20.50.04:350][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-20.50.04:391][888]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/EnemyControllerAI] ([2] browsable assets)...
+[2025.01.25-20.50.04:391][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/EnemyControllerAI]
+[2025.01.25-20.50.04:391][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/EnemyControllerAI" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset" SILENT=true
+[2025.01.25-20.50.04:397][888]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/EnemyControllerAI
+[2025.01.25-20.50.04:397][888]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyControllerAI3B018A2948954302B4342FAB22A5BA22.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset'
+[2025.01.25-20.50.04:406][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.656 ms (total: 2.04 sec)
+[2025.01.25-20.50.04:442][888]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-20.50.04:442][888]LogContentValidation: Enabled validators:
+[2025.01.25-20.50.04:442][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-20.50.04:442][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-20.50.04:442][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-20.50.04:442][888]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-20.50.04:442][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-20.50.04:442][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-20.50.04:443][888]AssetCheck: /Game/ThirdPerson/Blueprints/EnemyControllerAI Validating asset
+[2025.01.25-20.50.05:304][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.25-20.50.05:887][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.01.25-20.50.45:351][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-20.50.45:386][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/EnemyControllerAI] ([2] browsable assets)...
+[2025.01.25-20.50.45:386][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/EnemyControllerAI]
+[2025.01.25-20.50.45:386][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/EnemyControllerAI" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset" SILENT=true
+[2025.01.25-20.50.45:395][335]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/EnemyControllerAI
+[2025.01.25-20.50.45:396][335]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyControllerAI2616E0E94471B1018A7438881F96FF67.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset'
+[2025.01.25-20.50.45:409][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.918 ms (total: 2.10 sec)
+[2025.01.25-20.50.45:445][335]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-20.50.45:445][335]LogContentValidation: Enabled validators:
+[2025.01.25-20.50.45:445][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-20.50.45:445][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-20.50.45:445][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-20.50.45:445][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-20.50.45:445][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-20.50.45:445][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-20.50.45:445][335]AssetCheck: /Game/ThirdPerson/Blueprints/EnemyControllerAI Validating asset
+[2025.01.25-20.53.55:097][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8066.968262
+[2025.01.25-20.53.55:237][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-20.53.55:237][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8067.100098, Update Interval: 349.941711
+[2025.01.25-20.56.42:891][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-20.56.42:926][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/EnemyControllerAI] ([2] browsable assets)...
+[2025.01.25-20.56.42:926][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/EnemyControllerAI]
+[2025.01.25-20.56.42:926][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/EnemyControllerAI" FILE="../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset" SILENT=true
+[2025.01.25-20.56.42:934][908]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/EnemyControllerAI
+[2025.01.25-20.56.42:936][908]LogSavePackage: Moving '../../../../../../Github/GGJ-2025/GGJ_2025/Saved/EnemyControllerAIB42C95AE4116D8859B0FF0977CBF5EA8.tmp' to '../../../../../../Github/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset'
+[2025.01.25-20.56.42:948][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.294 ms (total: 2.16 sec)
+[2025.01.25-20.56.42:985][908]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-20.56.42:985][908]LogContentValidation: Enabled validators:
+[2025.01.25-20.56.42:985][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-20.56.42:985][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-20.56.42:985][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-20.56.42:985][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-20.56.42:985][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-20.56.42:985][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-20.56.42:985][908]AssetCheck: /Game/ThirdPerson/Blueprints/EnemyControllerAI Validating asset
