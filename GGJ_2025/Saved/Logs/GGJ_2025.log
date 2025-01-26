@@ -2980,3 +2980,77 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.01.26-02.16.03:497][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2025.01.26-02.16.03:507][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
 [2025.01.26-02.16.03:597][208]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2025.01.26-02.20.02:918][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3231.554688
+[2025.01.26-02.20.03:058][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-02.20.03:058][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3231.678955, Update Interval: 315.022430
+[2025.01.26-02.20.35:793][ 61]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Game/Gameplay/AI/PatrolRoute.PatrolRoute_C
+[2025.01.26-02.20.35:793][ 61]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Game/Gameplay/AI/PatrolRoute.PatrolRoute_C
+[2025.01.26-02.20.35:794][ 61]LogActorFactory: Actor Factory spawned Blueprint /Game/Game/Gameplay/AI/PatrolRoute.PatrolRoute as actor: PatrolRoute_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PatrolRoute_C_0
+[2025.01.26-02.20.35:795][ 61]LogActorFactory: Actor Factory spawned Blueprint /Game/Game/Gameplay/AI/PatrolRoute.PatrolRoute as actor: PatrolRoute_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PatrolRoute_C_0
+[2025.01.26-02.20.37:493][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.01.26-02.20.37:496][164]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2025.01.26-02.20.37:505][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Game/Gameplay/AI/PatrolRoute.PatrolRoute_C
+[2025.01.26-02.20.37:505][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Game/Gameplay/AI/PatrolRoute.PatrolRoute_C
+[2025.01.26-02.20.37:508][164]LogActorFactory: Actor Factory spawned Blueprint /Game/Game/Gameplay/AI/PatrolRoute.PatrolRoute as actor: PatrolRoute_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PatrolRoute_C_UAID_B88584B420080C4602_1684503527
+[2025.01.26-02.20.37:509][164]LogActorFactory: Actor Factory spawned Blueprint /Game/Game/Gameplay/AI/PatrolRoute.PatrolRoute as actor: PatrolRoute_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PatrolRoute_C_UAID_B88584B420080C4602_1684503527
+[2025.01.26-02.22.07:366][956]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.01.26-02.22.07:366][956]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.01.26-02.22.32:685][703]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.01.26-02.22.32:685][703]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.01.26-02.23.19:237][804]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Gameplay/BP_EnemyAI.BP_EnemyAI
+[2025.01.26-02.23.19:237][804]LogChaosDD: Creating Chaos Debug Draw Scene for world World_60
+[2025.01.26-02.23.42:072][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.26-02.23.47:856][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-02.23.47:913][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/Gameplay/BP_EnemyAI] ([2] browsable assets)...
+[2025.01.26-02.23.47:979][830]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Game/Gameplay/BP_EnemyAI.BP_EnemyAI]
+[2025.01.26-02.23.47:979][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/BP_EnemyAI]
+[2025.01.26-02.23.47:980][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/BP_EnemyAI" FILE="../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset" SILENT=true
+[2025.01.26-02.23.48:005][830]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/BP_EnemyAI
+[2025.01.26-02.23.48:006][830]LogSavePackage: Moving '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Saved/BP_EnemyAIEEF33A3549192EB86EB027BBE53C0C3C.tmp' to '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset'
+[2025.01.26-02.23.48:015][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.738 ms (total: 1.95 sec)
+[2025.01.26-02.23.48:075][830]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-02.23.48:075][830]LogContentValidation: Enabled validators:
+[2025.01.26-02.23.48:075][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-02.23.48:075][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-02.23.48:075][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-02.23.48:075][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-02.23.48:075][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-02.23.48:075][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-02.23.48:075][830]AssetCheck: /Game/Game/Gameplay/BP_EnemyAI Validating asset
+[2025.01.26-02.23.50:340][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.01.26-02.23.56:880][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-02.23.56:936][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/Gameplay/BP_EnemyAI] ([2] browsable assets)...
+[2025.01.26-02.23.57:001][499]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Game/Gameplay/BP_EnemyAI.BP_EnemyAI]
+[2025.01.26-02.23.57:002][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Gameplay/BP_EnemyAI]
+[2025.01.26-02.23.57:002][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Gameplay/BP_EnemyAI" FILE="../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset" SILENT=true
+[2025.01.26-02.23.57:026][499]LogSavePackage: Moving output files for package: /Game/Game/Gameplay/BP_EnemyAI
+[2025.01.26-02.23.57:027][499]LogSavePackage: Moving '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Saved/BP_EnemyAIEBA7FB324CC56836BE3A4689C206CB90.tmp' to '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset'
+[2025.01.26-02.23.57:035][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.653 ms (total: 2.10 sec)
+[2025.01.26-02.23.57:098][499]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-02.23.57:099][499]LogContentValidation: Enabled validators:
+[2025.01.26-02.23.57:099][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-02.23.57:099][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-02.23.57:099][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-02.23.57:099][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-02.23.57:099][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-02.23.57:099][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-02.23.57:099][499]AssetCheck: /Game/Game/Gameplay/BP_EnemyAI Validating asset
+[2025.01.26-02.24.13:015][  5]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.01.26-02.24.33:235][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.01.26-02.24.33:245][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-02.24.33:281][330]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1K/A691R6BYZ7UTHQ1C81CD6H
+[2025.01.26-02.24.33:282][330]LogSavePackage: Moving '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Saved/A691R6BYZ7UTHQ1C81CD6HF2CBE6434B9859A746DF1A8A2F6EC9C7.tmp' to '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1K/A691R6BYZ7UTHQ1C81CD6H.uasset'
+[2025.01.26-02.24.33:285][330]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GK/87X7KYAXN5WZ2MRLMV4OFA
+[2025.01.26-02.24.33:286][330]LogSavePackage: Moving '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Saved/87X7KYAXN5WZ2MRLMV4OFA996B981345A2E417D30E3B9D106C9295.tmp' to '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GK/87X7KYAXN5WZ2MRLMV4OFA.uasset'
+[2025.01.26-02.24.33:291][330]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/2J/22G517BMTEYUJ5OK93IOZR
+[2025.01.26-02.24.33:291][330]LogSavePackage: Moving '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Saved/22G517BMTEYUJ5OK93IOZRED1351AE4E9841454E9218BB2E5E4CA5.tmp' to '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/2J/22G517BMTEYUJ5OK93IOZR.uasset'
+[2025.01.26-02.24.33:303][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.746 ms (total: 2.16 sec)
+[2025.01.26-02.24.33:412][330]LogContentValidation: Display: Starting to validate 5 assets
+[2025.01.26-02.24.33:412][330]LogContentValidation: Enabled validators:
+[2025.01.26-02.24.33:412][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-02.24.33:412][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-02.24.33:412][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-02.24.33:412][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-02.24.33:412][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-02.24.33:412][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-02.24.33:412][330]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
