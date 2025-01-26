@@ -7207,3 +7207,377 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.26-16.57.21:637][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2025.01.26-16.57.21:652][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2025.01.26-16.57.21:672][762]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.01.26-16.58.45:633][581]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/EnemyControllerAI.EnemyControllerAI
+[2025.01.26-16.58.45:633][581]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2025.01.26-17.01.16:233][500]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.01.26-17.03.20:204][944]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.26-17.03.20:299][948]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.01.26-17.03.33:011][414]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2025.01.26-17.03.33:037][415]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.01.26-17.03.33:070][417]LogChaosDD: Creating Chaos Debug Draw Scene for world World_36
+[2025.01.26-17.03.50:550][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1898.830444
+[2025.01.26-17.03.50:684][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-17.03.50:684][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1898.955933, Update Interval: 340.745880
+[2025.01.26-17.04.19:292][847]LogStreaming: Display: FlushAsyncLoading(2407): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.04.19:310][847]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.01.26-17.04.19:338][850]LogChaosDD: Creating Chaos Debug Draw Scene for world World_37
+[2025.01.26-17.04.19:402][853]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.01.26-17.04.19:421][854]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.01.26-17.04.29:342][ 13]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/BattleWizardPolyart/Meshes/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2025.01.26-17.04.29:352][ 13]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.01.26-17.04.29:359][ 13]LogStreaming: Display: FlushAsyncLoading(2408): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.04.29:380][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.04.29:605][ 13]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.01.26-17.04.36:827][790]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.04.36:827][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.04.36:876][790]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.04.36:876][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.04.36:934][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.26-17.04.48:108][985]LogSlate: Window 'Content Browser 2' being destroyed
+[2025.01.26-17.04.51:195][331]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn
+[2025.01.26-17.04.51:195][331]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.01.26-17.04.51:201][331]LogChaosDD: Creating Chaos Debug Draw Scene for world World_43
+[2025.01.26-17.04.51:205][331]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.04.51:437][331]LogChaosDD: Creating Chaos Debug Draw Scene for world World_44
+[2025.01.26-17.04.59:939][254]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.01.26-17.04.59:939][254]LogChaosDD: Creating Chaos Debug Draw Scene for world World_45
+[2025.01.26-17.04.59:943][254]LogChaosDD: Creating Chaos Debug Draw Scene for world World_46
+[2025.01.26-17.04.59:948][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.05.00:168][254]LogChaosDD: Creating Chaos Debug Draw Scene for world World_47
+[2025.01.26-17.05.00:428][254]LogChaosDD: Creating Chaos Debug Draw Scene for world World_48
+[2025.01.26-17.05.01:712][378]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.05.01:712][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.05.01:725][378]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.05.01:725][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.05.01:744][378]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.05.01:744][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.05.01:858][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.26-17.05.19:780][264]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn
+[2025.01.26-17.05.19:780][264]LogChaosDD: Creating Chaos Debug Draw Scene for world World_49
+[2025.01.26-17.05.19:784][264]LogChaosDD: Creating Chaos Debug Draw Scene for world World_50
+[2025.01.26-17.05.19:789][264]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.05.20:008][264]LogChaosDD: Creating Chaos Debug Draw Scene for world World_51
+[2025.01.26-17.05.21:806][427]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.05.21:806][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.05.21:817][427]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.05.21:817][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.05.21:837][427]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.05.21:837][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.05.21:886][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.26-17.05.32:404][600]LogChaosDD: Creating Chaos Debug Draw Scene for world World_52
+[2025.01.26-17.05.38:856][600]LogSlate: Window 'Compatible Skeleton for Animation Blueprint' being destroyed
+[2025.01.26-17.05.44:539][155]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.01.26-17.06.00:532][751]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2025.01.26-17.06.00:534][751]LogChaosDD: Creating Chaos Debug Draw Scene for world World_53
+[2025.01.26-17.06.00:538][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.06.04:221][129]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2025.01.26-17.06.04:222][129]LogChaosDD: Creating Chaos Debug Draw Scene for world World_54
+[2025.01.26-17.06.04:227][129]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.06.04:410][129]LogChaosDD: Creating Chaos Debug Draw Scene for world World_55
+[2025.01.26-17.06.18:230][631]LogChaosDD: Creating Chaos Debug Draw Scene for world World_56
+[2025.01.26-17.06.18:260][631]LogChaosDD: Creating Chaos Debug Draw Scene for world World_57
+[2025.01.26-17.06.29:004][631]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.01.26-17.06.29:012][631]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.01.26-17.06.29:016][631]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.01.26-17.06.29:023][632]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.01.26-17.06.43:321][335]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Player
+[2025.01.26-17.06.43:329][335]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.01.26-17.06.43:329][335]LogChaosDD: Creating Chaos Debug Draw Scene for world World_58
+[2025.01.26-17.06.45:194][542]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player
+[2025.01.26-17.06.45:194][542]LogChaosDD: Creating Chaos Debug Draw Scene for world World_59
+[2025.01.26-17.06.45:200][542]LogChaosDD: Creating Chaos Debug Draw Scene for world World_60
+[2025.01.26-17.06.45:205][542]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.06.45:422][542]LogChaosDD: Creating Chaos Debug Draw Scene for world World_61
+[2025.01.26-17.06.51:991][253]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.06.51:991][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.06.52:121][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.26-17.06.53:317][382]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.06.53:317][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.06.53:359][382]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.06.53:359][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.06.53:379][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.26-17.07.15:256][822]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK
+[2025.01.26-17.07.15:256][822]LogChaosDD: Creating Chaos Debug Draw Scene for world World_62
+[2025.01.26-17.07.15:308][822]LogStreaming: Display: FlushAsyncLoading(2413): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.07.15:544][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim (Required Memory Estimate: 2.35 MB)
+[2025.01.26-17.07.15:544][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim (Required Memory Estimate: 2.35 MB)
+[2025.01.26-17.07.15:544][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2025.01.26-17.07.15:544][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2025.01.26-17.07.15:544][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2025.01.26-17.07.15:544][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2025.01.26-17.07.15:563][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/a278952d1e3effe7598d9355105393ec3de3baa1
+[2025.01.26-17.07.15:564][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/bffdcc8a10e5e7a9bf09964db142abb7e03cc169
+[2025.01.26-17.07.15:565][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2025.01.26-17.07.15:567][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/2aeb5d57469b357f2e09791c607cd06fae01af83
+[2025.01.26-17.07.15:569][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2025.01.26-17.07.15:570][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/9212b0bbfdc7a8a306e140b2bd7152c55b5ad385
+[2025.01.26-17.07.15:571][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/910997692287cad5bc48c2d3b6a2d94203a8e9fa
+[2025.01.26-17.07.15:572][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/15cc2f7f2bbdfe5edc2123e9ca8104e48f9975c8
+[2025.01.26-17.07.15:575][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim (Required Memory Estimate: 4.15 MB)
+[2025.01.26-17.07.15:576][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/62a0153fddd8a996f1b488cfda525c4cd0cec072
+[2025.01.26-17.07.15:579][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/5778039b3b8ba51d9662bb5f68a4295f8c9ac2cd
+[2025.01.26-17.07.15:579][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim (Required Memory Estimate: 4.15 MB)
+[2025.01.26-17.07.15:584][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2025.01.26-17.07.15:588][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2025.01.26-17.07.15:589][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/615f2acb229b7fb8027b5482d2110b6169401f83
+[2025.01.26-17.07.15:593][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim (Required Memory Estimate: 7.31 MB)
+[2025.01.26-17.07.15:599][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/5f4e256567992fcdfbe27648036259330e597688
+[2025.01.26-17.07.15:600][822]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim (Required Memory Estimate: 7.31 MB)
+[2025.01.26-17.07.15:600][822]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2025.01.26-17.07.15:612][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/4c7fb05699a791b49700ebbbc71da3be1314a638
+[2025.01.26-17.07.15:619][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/5b6a59b33fbf81de34370d78406ee0498044165c
+[2025.01.26-17.07.15:622][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/71261a7f4aa4424af8ca560cb812714115ebb519
+[2025.01.26-17.07.15:632][822]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/91a3fe6806c10bcf40e70108b733c5fe715d595c
+[2025.01.26-17.07.15:696][822]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2025.01.26-17.07.16:992][822]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.01.26-17.07.16:992][822]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.01.26-17.07.19:951][822]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.01.26-17.07.19:969][822]LogSkeletalMesh: Built Skeletal Mesh [4.37s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.01.26-17.07.20:045][822]LogChaosDD: Creating Chaos Debug Draw Scene for world World_63
+[2025.01.26-17.07.20:073][822]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.07.20:073][822]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.07.20:143][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.01.26-17.07.20:375][822]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(734)].
+[2025.01.26-17.07.20:591][822]LogChaosDD: Creating Chaos Debug Draw Scene for world World_64
+[2025.01.26-17.07.24:455][ 66]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.07.24:455][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.07.24:470][ 66]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.07.24:470][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.07.24:736][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.26-17.09.17:996][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.09.18:034][709]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Player] ([2] browsable assets)...
+[2025.01.26-17.09.18:040][709]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player]
+[2025.01.26-17.09.18:040][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Player]
+[2025.01.26-17.09.18:047][709]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Player
+[2025.01.26-17.09.18:047][709]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/ABP_Player555127CC4B071F618A569B9E4CE7A05C.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Characters/Mannequins/Animations/ABP_Player.uasset'
+[2025.01.26-17.09.18:071][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.145 ms (total: 793.015 ms)
+[2025.01.26-17.09.18:117][709]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.09.18:117][709]LogContentValidation: Enabled validators:
+[2025.01.26-17.09.18:117][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.09.18:117][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.09.18:117][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.09.18:117][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.09.18:117][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.09.18:117][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.09.18:117][709]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Player Validating asset
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "MovementComponent" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get MovementComponent
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "IsFalling" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set IsFalling
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "MovementComponent" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get MovementComponent
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "GroundSpeed" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get GroundSpeed
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "ShouldMove" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set ShouldMove
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "GroundSpeed" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set GroundSpeed
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "MovementComponent" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get MovementComponent
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "Velocity" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set Velocity
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "MovementComponent" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set MovementComponent
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "Character" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set Character
+[2025.01.26-17.09.19:028][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "Character" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "Character" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "MovementComponent" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get MovementComponent
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "IsFalling" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set IsFalling
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "MovementComponent" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get MovementComponent
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "GroundSpeed" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get GroundSpeed
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "ShouldMove" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set ShouldMove
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "GroundSpeed" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set GroundSpeed
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "MovementComponent" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Get MovementComponent
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "Velocity" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set Velocity
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "MovementComponent" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set MovementComponent
+[2025.01.26-17.09.19:029][801]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Could not find a variable named "Character" in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'.
+Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has been compiled for  Set Character
+[2025.01.26-17.09.19:030][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2025.01.26-17.09.19:030][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Movement Component  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:030][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Ground Speed  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:030][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Velocity  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:030][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Variable node  Get CharacterMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.01.26-17.09.19:031][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Ground Speed  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:031][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Movement Component  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:031][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Movement Component  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:031][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Character  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:031][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Movement Component  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:031][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Should Move  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:031][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Character  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:031][801]LogBlueprint: Error: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] The property associated with  Is Falling  could not be found in '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C'
+[2025.01.26-17.09.19:056][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.26-17.10.24:140][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2292.433594
+[2025.01.26-17.10.24:274][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-17.10.24:274][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2292.558594, Update Interval: 304.220703
+[2025.01.26-17.10.24:726][401]LogEditorTransaction: Undo Paste Variable: Character
+[2025.01.26-17.10.24:954][401]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.10.24:957][401]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.11.10:562][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.26-17.11.38:933][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.26-17.11.38:936][322]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game/Levels/MainMenu' took 0.018
+[2025.01.26-17.11.38:936][322]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Player] ([2] browsable assets)...
+[2025.01.26-17.11.38:943][322]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player]
+[2025.01.26-17.11.38:943][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Player]
+[2025.01.26-17.11.38:951][322]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_Player_Auto1
+[2025.01.26-17.11.38:951][322]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/ABP_Player_Auto180BA2A6346AD0F97B093F0BEE7895B45.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_Player_Auto1.uasset'
+[2025.01.26-17.11.38:951][322]LogFileHelpers: Auto-saving content packages took 0.015
+[2025.01.26-17.12.08:692][794]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Game/Animation/CactusEnemyAnim.CactusEnemyAnim
+[2025.01.26-17.12.08:693][794]LogChaosDD: Creating Chaos Debug Draw Scene for world World_65
+[2025.01.26-17.12.08:700][794]LogChaosDD: Creating Chaos Debug Draw Scene for world World_66
+[2025.01.26-17.12.08:707][794]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.12.08:921][794]LogChaosDD: Creating Chaos Debug Draw Scene for world World_67
+[2025.01.26-17.12.13:744][318]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Game/Animation/CactusEnemyBlending.CactusEnemyBlending
+[2025.01.26-17.12.13:746][318]LogChaosDD: Creating Chaos Debug Draw Scene for world World_68
+[2025.01.26-17.12.13:751][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.12.13:924][318]LogChaosDD: Creating Chaos Debug Draw Scene for world World_69
+[2025.01.26-17.12.18:139][750]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.12.18:139][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.12.18:189][750]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.12.18:189][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.12.18:250][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.01.26-17.12.28:566][953]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.12.28:566][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.12.28:571][953]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.12.28:571][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.12.28:636][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.26-17.12.29:718][ 72]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.12.29:718][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.12.29:723][ 72]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.12.29:723][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.12.29:783][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.26-17.12.30:423][144]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.12.30:423][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.12.30:428][144]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.12.30:428][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.12.30:478][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.26-17.12.31:508][265]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.12.31:508][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.12.31:569][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.26-17.13.29:756][210]LogChaosDD: Creating Chaos Debug Draw Scene for world World_70
+[2025.01.26-17.13.29:782][211]LogChaosDD: Creating Chaos Debug Draw Scene for world World_71
+[2025.01.26-17.13.29:801][212]LogChaosDD: Creating Chaos Debug Draw Scene for world World_72
+[2025.01.26-17.13.30:731][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Gameplay/BP_EnemyAI.BP_EnemyAI
+[2025.01.26-17.13.30:732][316]LogChaosDD: Creating Chaos Debug Draw Scene for world World_73
+[2025.01.26-17.14.02:754][369]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.14.02:755][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.14.02:862][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.01.26-17.14.43:429][ 82]LogEditorTransaction: Undo Break Pin Links
+[2025.01.26-17.14.43:742][ 82]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.14.43:749][ 82]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.14.43:751][ 82]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_66:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.16.07:576][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2635.858643
+[2025.01.26-17.16.07:692][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-17.16.07:693][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2635.966309, Update Interval: 348.504272
+[2025.01.26-17.16.19:715][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.01.26-17.16.57:078][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.26-17.17.00:460][771]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.26-17.17.00:467][771]LogPlayLevel: [PlayLevel] Compiling ABP_Manny before play...
+[2025.01.26-17.17.00:467][771]LogPlayLevel: [PlayLevel]   Compiling CR_Mannequin_BasicFootIK as a dependent...
+[2025.01.26-17.17.00:534][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.26-17.17.00:536][771]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (2 blueprints)
+[2025.01.26-17.17.00:565][771]LogPlayLevel: Creating play world package: /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.17.00:565][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000819s)
+[2025.01.26-17.17.00:566][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Levels/MainMenu.MainMenu to /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.000849s)
+[2025.01.26-17.17.00:577][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.26-17.17.00:579][771]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.01.26-17.17.00:580][771]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2025.01.26-17.17.00:581][771]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.01.26-17.17.00:581][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-17.17.00:581][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-17.17.00:581][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-17.17.00:581][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-17.17.00:581][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.26-17.17.00:581][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-17.17.00:581][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.26-17.17.00:581][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-17.17.00:581][771]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-17.17.00:581][771]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-17.17.00:581][771]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-17.17.00:583][771]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-17.17.00:592][771]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.26-17.17.00:592][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-17.17.00:592][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-17.17.00:592][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-17.17.00:593][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.01.26-17.17.00:593][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.01.26-17.17.00:595][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.01.26-17.17.00:595][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.01.26-17.17.00:595][771]LogInit: FAudioDevice initialized with ID 14.
+[2025.01.26-17.17.00:595][771]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2025.01.26-17.17.00:595][771]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.01.26-17.17.00:597][771]LogLoad: Game class is 'MenuGameMode_C'
+[2025.01.26-17.17.00:597][771]LogWorld: Bringing World /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.01.26-09.17.00
+[2025.01.26-17.17.00:597][771]LogWorld: Bringing up level for play took: 0.000337
+[2025.01.26-17.17.00:599][771]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2025.01.26-17.17.00:601][771]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.26-17.17.00:601][771]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.26-17.17.00:601][771]PIE: Server logged in
+[2025.01.26-17.17.00:602][771]PIE: Play in editor total start time 0.137 seconds.
+[2025.01.26-17.17.01:305][852]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.26-17.17.01:305][852]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.01.26-17.17.01:305][852]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap"
+[2025.01.26-17.17.01:305][852]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.17.01:305][852]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.17.01:306][852]LogWorld: BeginTearingDown for /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.17.01:306][852]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.17.01:306][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.17.01:362][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-17.17.01:363][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.26-17.17.01:365][852]LogStreaming: Display: FlushAsyncLoading(2415): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.17.01:370][852]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2025.01.26-17.17.01:370][852]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.26-17.17.01:371][852]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-17.17.01:371][852]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-17.17.01:371][852]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.01.26-17.17.01:371][852]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-17.17.01:380][852]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.26-17.17.01:397][852]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/FirstPerson/Maps/FirstPersonMap (0xAB684108FF182619) that has been renamed to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap (0x20BFD38F37AC2C58)
+[2025.01.26-17.17.01:500][852]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 119.909 ms (total: 479.285 ms)
+[2025.01.26-17.17.01:509][852]LogWorldPartition: Display: WorldPartition initialize took 138.897 ms (total: 828.975 ms)
+[2025.01.26-17.17.01:509][852]LogPlayLevel: PIE: World Init took: (0.140012s)
+[2025.01.26-17.17.01:509][852]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-17.17.01:575][852]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.26-09.17.01
+[2025.01.26-17.17.01:580][852]LogWorld: Bringing up level for play took: 0.070154
+[2025.01.26-17.17.01:585][852]LogLoad: Took 0.279617 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2025.01.26-17.17.01:585][852]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.17.27:694][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.17.27:694][189]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.26-17.17.27:696][189]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.17.27:701][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.17.27:701][189]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.26-17.17.27:707][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-17.17.27:711][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.17.27:728][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.17.27:728][189]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.01.26-17.17.27:728][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.01.26-17.17.27:730][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.01.26-17.17.27:744][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.01.26-17.17.27:766][190]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2025.01.26-17.17.33:707][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.17.33:763][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Levels/MainMenu" FILE="../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.26-17.17.33:798][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.26-17.17.33:803][897]LogSavePackage: Moving output files for package: /Game/Game/Levels/MainMenu
+[2025.01.26-17.17.33:803][897]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/MainMenu645B77B84690E6BEDBD3E69AC8C8E411.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Levels/MainMenu.umap'
+[2025.01.26-17.17.33:813][897]LogFileHelpers: Saving map 'MainMenu' took 0.050
+[2025.01.26-17.17.33:818][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.002 ms (total: 905.018 ms)
+[2025.01.26-17.17.33:863][897]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.17.33:863][897]LogContentValidation: Enabled validators:
+[2025.01.26-17.17.33:863][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.17.33:864][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.17.33:864][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.17.33:864][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.17.33:864][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.17.33:864][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.17.33:864][897]AssetCheck: /Game/Game/Levels/MainMenu Validating asset
