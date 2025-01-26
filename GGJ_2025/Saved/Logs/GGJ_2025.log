@@ -2621,3 +2621,362 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.01.26-01.56.32:593][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.26-01.56.32:593][ 91]AssetCheck: /Game/Game/Gameplay/BP_EnemyAI Validating asset
 [2025.01.26-01.56.32:593][ 91]AssetCheck: /Game/Game/Gameplay/AI/Decorators/ShouldStayIdle Validating asset
+[2025.01.26-02.00.56:809][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2085.444092
+[2025.01.26-02.00.57:809][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-02.00.57:809][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2086.115234, Update Interval: 319.363983
+[2025.01.26-02.07.13:872][891]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2462.504883
+[2025.01.26-02.07.14:019][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-02.07.14:020][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2462.639404, Update Interval: 324.498413
+[2025.01.26-02.07.17:601][165]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.01.26-02.07.33:466][153]LogStreaming: Display: FlushAsyncLoading(793): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-02.07.33:665][156]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.01.26-02.07.37:010][372]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2025.01.26-02.07.37:155][377]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2025.01.26-02.07.37:177][378]LogStreaming: Display: FlushAsyncLoading(794): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-02.07.37:873][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim (Required Memory Estimate: 2.80 MB)
+[2025.01.26-02.07.38:121][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim (Required Memory Estimate: 5.51 MB)
+[2025.01.26-02.07.38:121][378]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2025.01.26-02.07.38:121][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim (Required Memory Estimate: 2.80 MB)
+[2025.01.26-02.07.38:134][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/1fb58284e95dc98903d95980509ebeafe8b05488
+[2025.01.26-02.07.38:162][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/8d77eedbc5bc865a73c963ae0494c57c91acaf0d
+[2025.01.26-02.07.38:183][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/96f0ad002e8a0d6ae8ef4c7c223051d2ee49d14d
+[2025.01.26-02.07.38:184][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2025.01.26-02.07.38:185][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim (Required Memory Estimate: 5.51 MB)
+[2025.01.26-02.07.38:222][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/eb1f3645132c19c6f45501b2ca3c9f8f718c081d
+[2025.01.26-02.07.38:245][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/c6aa84b1fb6b08c5ec00f3eadebc3fcfc16e3c35
+[2025.01.26-02.07.38:245][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2025.01.26-02.07.38:246][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2025.01.26-02.07.38:281][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/4dcd365de0f93bc0c094c751bef04a34b3d44e1a
+[2025.01.26-02.07.38:306][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/7fc68fd196454c3471deb75402ae225556c50db9
+[2025.01.26-02.07.38:307][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2025.01.26-02.07.38:317][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2025.01.26-02.07.38:325][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/49dcf63837ae8f0e33a27bcef11a767527a39b20
+[2025.01.26-02.07.38:360][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/0111d097422079b6a0998ed49447b61877c6c8e2
+[2025.01.26-02.07.38:360][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2025.01.26-02.07.38:371][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim (Required Memory Estimate: 4.61 MB)
+[2025.01.26-02.07.38:388][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/3c589734e79e4e99d4a5eef6cbd5f5a4c4796868
+[2025.01.26-02.07.38:405][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/cc2b1e6f452301a13abebf6c4a7eae6d43660a29
+[2025.01.26-02.07.38:405][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2025.01.26-02.07.38:419][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim (Required Memory Estimate: 4.61 MB)
+[2025.01.26-02.07.38:429][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/1319c50ce557b5dfded879a23133bdb4ae578fcc
+[2025.01.26-02.07.38:456][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/361b1c12382886286f2c15e84e0d602725841af9
+[2025.01.26-02.07.38:457][378]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2025.01.26-02.07.38:481][378]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/e0a14c4fcca154095db338afcd243aca2f0daa7a
+[2025.01.26-02.07.38:564][378]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2025.01.26-02.07.43:026][378]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.01.26-02.07.43:026][378]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.01.26-02.07.47:080][378]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.01.26-02.07.47:103][378]LogSkeletalMesh: Built Skeletal Mesh [8.98s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2025.01.26-02.07.51:421][637]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2025.01.26-02.07.51:447][638]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2025.01.26-02.07.51:490][639]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2025.01.26-02.07.51:533][640]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2025.01.26-02.07.51:564][641]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2025.01.26-02.08.12:772][932]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter1
+[2025.01.26-02.08.12:787][932]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter1
+[2025.01.26-02.08.12:806][933]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter1).
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: ================================================
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Total job queries 201, among them cache hits 20 (9.95%), DDC hits 167 (83.08%), Duplicates 2 (1.00%)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Tracking 179 distinct input hashes that result in 153 distinct outputs (85.47%)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: RAM used: 121.08 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Shaders Compiled: 12
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Average time worker was idle: 3.94 s
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Time job spent in pending queue: average 0.41 s, longest 2.53 s
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Job execution time: average 1.31 s, max 2.78 s
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Job life time (pending + execution): average 1.72 s, max 3.29
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Shader code size: average 6.538 KiB, min 4.113 KiB, max 7.555 KiB
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.54 s
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Average processing rate: 1.84 jobs/sec
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Total thread time: 9.239 s
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Total thread preprocess time: 2.968 s
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Percentage time preprocessing: 32.12%
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Effective parallelization: 1.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.01 sec, max 1.11 sec, min 0.96 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.73 sec, max 0.85 sec, min 0.66 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.72 sec, max 0.83 sec, min 0.66 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.61 sec, max 0.69 sec, min 0.56 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.86% of total time (compiled    3 times, average 1.01 sec, max 1.11 sec, min 0.96 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.80% of total time (compiled    3 times, average 0.73 sec, max 0.85 sec, min 0.66 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.39% of total time (compiled    3 times, average 0.72 sec, max 0.83 sec, min 0.66 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                                                 FLumenCardPS - 19.95% of total time (compiled    3 times, average 0.61 sec, max 0.69 sec, min 0.56 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: === Material stats ===
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Materials Translated:    136
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Material Translation Only: 0.04 s (30%)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: Material Cache Hits: 26 (19%)
+[2025.01.26-02.08.17:522][265]LogShaderCompilers: Display: ================================================
+[2025.01.26-02.08.23:514][687]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter1 -> PlayerCharacter
+[2025.01.26-02.08.23:567][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.26-02.08.23:601][687]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPerson/Blueprints/PlayerCharacter.
+[2025.01.26-02.08.23:602][687]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter1
+[2025.01.26-02.08.23:603][687]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2025.01.26-02.08.26:177][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/PlayerCharacter.PlayerCharacter
+[2025.01.26-02.08.26:177][833]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2025.01.26-02.08.26:954][836]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.01.26-02.08.38:475][747]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.01.26-02.08.38:480][747]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.01.26-02.08.38:559][751]LogChaosDD: Creating Chaos Debug Draw Scene for world World_36
+[2025.01.26-02.08.38:638][752]LogChaosDD: Creating Chaos Debug Draw Scene for world World_37
+[2025.01.26-02.08.56:646][ 28]LogStreaming: Display: FlushAsyncLoading(795): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-02.08.56:649][ 28]LogSkeletalMesh: Display: [AssetLog] C:\Users\lcv2212506.LCIEDUCATION\Documents\GitHub\GGJ-2025\GGJ_2025\Content\MonsterForSurvivalGame\Mesh\Polyart\Slime_SK.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2025.01.26-02.08.56:653][ 28]LogSkeletalMesh: Building Skeletal Mesh Slime_SK...
+[2025.01.26-02.08.56:662][ 28]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/MonsterForSurvivalGame/Mesh/Polyart/Slime_SK.Slime_SK
+[2025.01.26-02.08.56:823][ 30]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.01.26-02.08.59:732][209]LogStreaming: Display: FlushAsyncLoading(796): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-02.08.59:753][209]LogTexture: Display: Building textures: /Game/BattleWizardPolyart/Textures/StandardBaseColorTex.StandardBaseColorTex (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2025.01.26-02.08.59:767][209]LogSkeletalMesh: Building Skeletal Mesh WizardSM...
+[2025.01.26-02.08.59:798][209]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (WizardSM) ...
+[2025.01.26-02.08.59:820][209]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/BattleWizardPolyart/Meshes/WizardSM.WizardSM
+[2025.01.26-02.09.01:509][315]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.01.26-02.09.38:929][281]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.09.38:929][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.09.39:196][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.26-02.09.40:442][427]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.09.40:442][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.09.40:493][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.01.26-02.09.41:835][584]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.09.41:835][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.09.41:917][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.01.26-02.09.45:251][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-02.09.45:304][861]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/PlayerCharacter] ([2] browsable assets)...
+[2025.01.26-02.09.45:416][861]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/PlayerCharacter.PlayerCharacter]
+[2025.01.26-02.09.45:417][861]LogChaosDD: Creating Chaos Debug Draw Scene for world World_40
+[2025.01.26-02.09.45:446][861]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/PlayerCharacter.PlayerCharacter_C]
+[2025.01.26-02.09.45:446][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/PlayerCharacter]
+[2025.01.26-02.09.45:465][861]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/PlayerCharacter
+[2025.01.26-02.09.45:465][861]LogSavePackage: Moving '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Saved/PlayerCharacter41EF60FF4E1EAEA0CE4494A7F008D337.tmp' to '../../../../../../Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/PlayerCharacter.uasset'
+[2025.01.26-02.09.45:465][861]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPerson/Blueprints/PlayerCharacter.
+[2025.01.26-02.09.45:475][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 223.880 ms (total: 1.79 sec)
+[2025.01.26-02.09.45:516][861]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-02.09.45:516][861]LogContentValidation: Enabled validators:
+[2025.01.26-02.09.45:516][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-02.09.45:516][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-02.09.45:516][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-02.09.45:516][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-02.09.45:516][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-02.09.45:516][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-02.09.45:516][861]AssetCheck: /Game/ThirdPerson/Blueprints/PlayerCharacter Validating asset
+[2025.01.26-02.10.55:370][195]LogContentBrowser: Deferred new asset file creation: ABP_Quinn1
+[2025.01.26-02.10.55:377][195]LogContentBrowser: Creating deferred item: ABP_Quinn1
+[2025.01.26-02.10.55:533][196]LogContentBrowser: Renaming the item being created (Deferred Item: ABP_Quinn1).
+[2025.01.26-02.11.00:835][561]LogContentBrowser: Attempting asset rename: ABP_Quinn1 -> PlayerAnim
+[2025.01.26-02.11.01:054][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.01.26-02.11.01:074][561]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Characters/Mannequins/Animations/PlayerAnim.
+[2025.01.26-02.11.01:075][561]LogContentBrowser: End creating deferred item ABP_Quinn1
+[2025.01.26-02.11.01:076][561]LogChaosDD: Creating Chaos Debug Draw Scene for world World_41
+[2025.01.26-02.11.02:586][638]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/PlayerAnim.PlayerAnim
+[2025.01.26-02.11.02:586][638]LogChaosDD: Creating Chaos Debug Draw Scene for world World_42
+[2025.01.26-02.11.03:588][638]LogChaosDD: Creating Chaos Debug Draw Scene for world World_43
+[2025.01.26-02.11.03:612][638]LogStreaming: Display: FlushAsyncLoading(797): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-02.11.04:184][638]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-02.11.07:451][638]LogChaosDD: Creating Chaos Debug Draw Scene for world World_44
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: ================================================
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Total job queries 217, among them cache hits 24 (11.06%), DDC hits 175 (80.65%), Duplicates 2 (0.92%)
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Tracking 191 distinct input hashes that result in 159 distinct outputs (83.25%)
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: RAM used: 122.96 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Shaders Compiled: 16
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Average time worker was idle: 18.69 s
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Time job spent in pending queue: average 0.37 s, longest 2.53 s
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Job execution time: average 1.18 s, max 2.78 s
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Job life time (pending + execution): average 1.54 s, max 3.29
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Shader code size: average 6.612 KiB, min 4.113 KiB, max 7.859 KiB
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.01 s
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Average processing rate: 2.00 jobs/sec
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Total thread time: 11.039 s
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Total thread preprocess time: 3.205 s
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Percentage time preprocessing: 29.04%
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Effective parallelization: 1.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.90 sec, max 1.11 sec, min 0.54 sec)
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.65 sec, max 0.85 sec, min 0.42 sec)
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.64 sec, max 0.83 sec, min 0.40 sec)
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    4 times, average 0.57 sec, max 0.69 sec, min 0.44 sec)
+[2025.01.26-02.11.17:529][574]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.44% of total time (compiled    4 times, average 0.90 sec, max 1.11 sec, min 0.54 sec)
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.68% of total time (compiled    4 times, average 0.65 sec, max 0.85 sec, min 0.42 sec)
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.19% of total time (compiled    4 times, average 0.64 sec, max 0.83 sec, min 0.40 sec)
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display:                                                 FLumenCardPS - 20.69% of total time (compiled    4 times, average 0.57 sec, max 0.69 sec, min 0.44 sec)
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display: === Material stats ===
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display: Materials Translated:    139
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display: Material Translation Only: 0.05 s (30%)
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display: Material Cache Hits: 26 (19%)
+[2025.01.26-02.11.17:530][574]LogShaderCompilers: Display: ================================================
+[2025.01.26-02.11.18:718][668]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.11.18:718][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.11.18:735][668]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.11.18:735][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.11.18:763][668]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.11.18:763][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.11.18:821][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.26-02.11.21:877][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.01.26-02.11.23:411][856]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.26-02.11.23:454][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.01.26-02.11.23:475][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.01.26-02.11.23:496][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.01.26-02.11.42:626][440]LogSlate: Window 'Duplicate Asset As' being destroyed
+[2025.01.26-02.11.42:699][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.26-02.11.42:734][440]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Characters/Mannequins/Animations/PlayerAnim.
+[2025.01.26-02.11.42:780][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.01.26-02.11.42:786][440]AnimBlueprintLog: Transition  Jump to Fall Loop  is using an automatic transition rule but the source  Sequence Player 'MM_Jump'  is set as looping.  Please clear the 'Loop Animation' flag
+[2025.01.26-02.11.42:786][440]AnimBlueprintLog: [2740.97] Compile of PlayerAnim successful! [in 48 ms] (/Game/Characters/Mannequins/Animations/PlayerAnim.PlayerAnim)
+[2025.01.26-02.11.42:786][440]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/PlayerAnim.PlayerAnim
+[2025.01.26-02.11.42:786][440]LogChaosDD: Creating Chaos Debug Draw Scene for world World_45
+[2025.01.26-02.11.42:797][440]LogChaosDD: Creating Chaos Debug Draw Scene for world World_46
+[2025.01.26-02.11.43:423][440]LogChaosDD: Creating Chaos Debug Draw Scene for world World_47
+[2025.01.26-02.12.09:195][928]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn
+[2025.01.26-02.12.09:195][928]LogChaosDD: Creating Chaos Debug Draw Scene for world World_48
+[2025.01.26-02.12.09:207][928]LogChaosDD: Creating Chaos Debug Draw Scene for world World_49
+[2025.01.26-02.12.09:222][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-02.12.09:599][928]LogChaosDD: Creating Chaos Debug Draw Scene for world World_50
+[2025.01.26-02.12.25:834][411]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.12.25:834][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.12.25:859][411]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.12.25:859][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.12.25:924][411]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.12.25:924][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.12.26:019][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.26-02.12.32:429][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.26-02.12.33:722][885]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.26-02.12.33:790][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.01.26-02.12.33:812][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.01.26-02.12.33:834][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.01.26-02.12.44:426][335]LogSlate: Window 'Duplicate Asset As' being destroyed
+[2025.01.26-02.12.44:507][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.01.26-02.12.44:560][335]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Characters/Mannequins/Animations/PLayerAnim.
+[2025.01.26-02.12.44:607][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.26-02.12.44:615][335]AnimBlueprintLog: Transition  Jump to Fall Loop  is using an automatic transition rule but the source  Sequence Player 'MM_Jump'  is set as looping.  Please clear the 'Loop Animation' flag
+[2025.01.26-02.12.44:615][335]AnimBlueprintLog: [2802.79] Compile of PLayerAnim successful! [in 51 ms] (/Game/Characters/Mannequins/Animations/PLayerAnim.PLayerAnim)
+[2025.01.26-02.12.44:615][335]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/PLayerAnim.PLayerAnim
+[2025.01.26-02.12.44:615][335]LogChaosDD: Creating Chaos Debug Draw Scene for world World_51
+[2025.01.26-02.12.44:624][335]LogChaosDD: Creating Chaos Debug Draw Scene for world World_52
+[2025.01.26-02.12.45:093][335]LogChaosDD: Creating Chaos Debug Draw Scene for world World_53
+[2025.01.26-02.12.59:160][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.01.26-02.13.00:267][147]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.26-02.13.00:713][147]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.13.00:713][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.13.00:723][147]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.13.00:724][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.13.00:734][147]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.13.00:734][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.13.00:835][147]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.13.00:835][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.13.00:847][147]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.13.00:847][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.13.00:864][147]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.13.00:865][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.13.00:935][147]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.26-02.13.00:935][147]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.13.00:935][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.13.00:979][147]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Mannequins/Animations/PLayerAnim.PLayerAnim
+	Asset Type: AnimBlueprint
+[2025.01.26-02.13.01:379][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.26-02.13.01:411][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.01.26-02.13.01:432][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.01.26-02.13.01:487][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.26-02.13.11:933][817]LogChaosDD: Creating Chaos Debug Draw Scene for world World_54
+[2025.01.26-02.13.24:483][817]LogSlate: Window 'Compatible Skeleton for Animation Blueprint' being destroyed
+[2025.01.26-02.13.36:438][576]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2845.068115
+[2025.01.26-02.13.36:586][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-02.13.36:586][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2845.199951, Update Interval: 332.641388
+[2025.01.26-02.13.48:718][336]LogSlate: Window 'Content Browser 2' being destroyed
+[2025.01.26-02.14.15:019][ 38]LogStreaming: Display: FlushAsyncLoading(802): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-02.14.15:026][ 38]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BattleWizardPolyart/CharacterBP/NewAnimBlueprint.NewAnimBlueprint
+[2025.01.26-02.14.15:026][ 38]LogChaosDD: Creating Chaos Debug Draw Scene for world World_55
+[2025.01.26-02.14.15:040][ 38]LogChaosDD: Creating Chaos Debug Draw Scene for world World_56
+[2025.01.26-02.14.15:048][ 38]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-02.14.15:518][ 38]LogChaosDD: Creating Chaos Debug Draw Scene for world World_57
+[2025.01.26-02.14.15:811][ 38]LogChaosDD: Creating Chaos Debug Draw Scene for world World_58
+[2025.01.26-02.14.19:019][189]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2025.01.26-02.14.19:036][189]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2025.01.26-02.14.19:086][189]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.14.19:086][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.14.19:113][189]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.14.19:113][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.14.19:168][189]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.14.19:168][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.14.19:240][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.01.26-02.14.28:418][781]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.01.26-02.14.28:486][783]LogChaosDD: Creating Chaos Debug Draw Scene for world World_59
+[2025.01.26-02.15.55:690][763]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.26-02.15.55:698][763]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.26-02.15.55:698][763]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.26-02.15.55:706][763]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 8.929 ms (total: 106.408 ms)
+[2025.01.26-02.15.55:715][763]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2025.01.26-02.15.55:791][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.26-02.15.55:795][763]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (1 blueprints)
+[2025.01.26-02.15.55:795][763]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.26-02.15.55:813][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018312s)
+[2025.01.26-02.15.55:813][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.018343s)
+[2025.01.26-02.15.55:832][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.26-02.15.55:832][763]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.26-02.15.55:834][763]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-02.15.55:834][763]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-02.15.55:834][763]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.26-02.15.55:834][763]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-02.15.55:840][763]LogWorldPartition: Display: WorldPartition initialize took 6.297 ms (total: 401.021 ms)
+[2025.01.26-02.15.55:840][763]LogPlayLevel: PIE: World Init took: (0.007830s)
+[2025.01.26-02.15.55:841][763]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.01.26-02.15.55:841][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-02.15.55:841][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-02.15.55:841][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-02.15.55:841][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-02.15.55:841][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.26-02.15.55:841][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-02.15.55:841][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.26-02.15.55:841][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-02.15.55:841][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-02.15.55:841][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-02.15.55:841][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-02.15.55:843][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-02.15.55:968][763]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2025.01.26-02.15.55:968][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-02.15.55:968][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-02.15.55:968][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-02.15.55:969][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.01.26-02.15.55:969][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.01.26-02.15.55:972][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.01.26-02.15.55:972][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.01.26-02.15.55:972][763]LogInit: FAudioDevice initialized with ID 13.
+[2025.01.26-02.15.55:972][763]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2025.01.26-02.15.55:972][763]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.01.26-02.15.55:975][763]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-02.15.55:985][763]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.25-18.15.55
+[2025.01.26-02.15.55:987][763]LogWorld: Bringing up level for play took: 0.011917
+[2025.01.26-02.15.55:990][763]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2025.01.26-02.15.55:996][763]PIE: Server logged in
+[2025.01.26-02.15.55:997][763]PIE: Play in editor total start time 0.3 seconds.
+[2025.01.26-02.16.03:462][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-02.16.03:462][207]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.26-02.16.03:462][207]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-02.16.03:465][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.16.03:465][207]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.26-02.16.03:468][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-02.16.03:474][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-02.16.03:494][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-02.16.03:495][207]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.01.26-02.16.03:495][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.01.26-02.16.03:497][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.01.26-02.16.03:507][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.01.26-02.16.03:597][208]LogPlayLevel: Display: Destroying online subsystem :Context_72
