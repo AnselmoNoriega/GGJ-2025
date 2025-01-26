@@ -7581,3 +7581,1291 @@ Make sure '/Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player_C' has b
 [2025.01.26-17.17.33:864][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.26-17.17.33:864][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.26-17.17.33:864][897]AssetCheck: /Game/Game/Levels/MainMenu Validating asset
+[2025.01.26-17.21.28:920][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.21.28:974][207]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Game/Animation/CactusEnemyAnim] ([2] browsable assets)...
+[2025.01.26-17.21.28:981][207]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Game/Animation/CactusEnemyAnim.CactusEnemyAnim]
+[2025.01.26-17.21.28:981][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Animation/CactusEnemyAnim]
+[2025.01.26-17.21.28:981][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Animation/CactusEnemyAnim" FILE="../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Animation/CactusEnemyAnim.uasset" SILENT=true
+[2025.01.26-17.21.28:986][207]LogSavePackage: Moving output files for package: /Game/Game/Animation/CactusEnemyAnim
+[2025.01.26-17.21.28:987][207]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/CactusEnemyAnim7A4800DD42D4CA3B73A157A898BDE09E.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Animation/CactusEnemyAnim.uasset'
+[2025.01.26-17.21.28:992][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.428 ms (total: 976.446 ms)
+[2025.01.26-17.21.29:019][207]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.21.29:019][207]LogContentValidation: Enabled validators:
+[2025.01.26-17.21.29:019][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.21.29:019][207]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.21.29:019][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.21.29:019][207]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.21.29:019][207]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.21.29:019][207]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.21.29:019][207]AssetCheck: /Game/Game/Animation/CactusEnemyAnim Validating asset
+[2025.01.26-17.21.29:854][301]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.21.29:854][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.21.29:874][301]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.21.29:874][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.21.29:920][301]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.21.29:920][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.21.29:947][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.26-17.22.50:923][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3039.199707
+[2025.01.26-17.22.51:052][737]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-17.22.51:052][737]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3039.318115, Update Interval: 303.127533
+[2025.01.26-17.24.06:105][482]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.24.06:105][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.24.06:183][482]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.24.06:183][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.24.06:194][482]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.24.06:194][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.24.06:221][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.26-17.24.25:535][713]LogChaosDD: Creating Chaos Debug Draw Scene for world World_74
+[2025.01.26-17.24.30:722][297]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.01.26-17.24.30:722][297]LogChaosDD: Creating Chaos Debug Draw Scene for world World_75
+[2025.01.26-17.24.30:728][297]LogChaosDD: Creating Chaos Debug Draw Scene for world World_76
+[2025.01.26-17.24.30:734][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.24.30:947][297]LogChaosDD: Creating Chaos Debug Draw Scene for world World_77
+[2025.01.26-17.24.35:045][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.24.35:093][716]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Player] ([2] browsable assets)...
+[2025.01.26-17.24.35:102][716]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player]
+[2025.01.26-17.24.35:102][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Player]
+[2025.01.26-17.24.35:119][716]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Player
+[2025.01.26-17.24.35:119][716]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/ABP_PlayerA620B50042774B850577FFADC02C6C54.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Characters/Mannequins/Animations/ABP_Player.uasset'
+[2025.01.26-17.24.35:126][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.538 ms (total: 1.05 sec)
+[2025.01.26-17.24.35:157][716]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.24.35:157][716]LogContentValidation: Enabled validators:
+[2025.01.26-17.24.35:157][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.24.35:157][716]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.24.35:157][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.24.35:157][716]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.24.35:157][716]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.24.35:157][716]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.24.35:157][716]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Player Validating asset
+[2025.01.26-17.25.23:978][322]LogStreaming: Display: FlushAsyncLoading(3036): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.25.23:982][322]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/Attack02MaintainAnim.Attack02MaintainAnim (Required Memory Estimate: 0.25 MB)
+[2025.01.26-17.25.23:984][322]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/Attack02MaintainAnim.Attack02MaintainAnim, at AnimationSequence/90b7afcebbcdbe7b628cd75b34044e265aa87c61
+[2025.01.26-17.25.24:025][322]LogChaosDD: Creating Chaos Debug Draw Scene for world World_78
+[2025.01.26-17.25.27:585][729]LogEditorTransaction: Undo Add Node
+[2025.01.26-17.25.27:791][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.25.27:799][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.26.51:523][979]LogSlate: Window 'Pick Skeleton' being destroyed
+[2025.01.26-17.26.51:534][979]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2025.01.26-17.26.51:538][979]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2025.01.26-17.26.51:543][980]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace1D).
+[2025.01.26-17.27.01:972][201]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> WizardBlending
+[2025.01.26-17.27.02:004][201]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2025.01.26-17.27.03:900][416]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/BattleWizardPolyart/Meshes/WizardBlending.WizardBlending
+[2025.01.26-17.27.03:900][416]LogChaosDD: Creating Chaos Debug Draw Scene for world World_79
+[2025.01.26-17.27.03:906][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.27.04:092][416]LogChaosDD: Creating Chaos Debug Draw Scene for world World_80
+[2025.01.26-17.27.05:690][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.26-17.27.05:698][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.27.05:749][551]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BattleWizardPolyart/Meshes/WizardBlending] ([1] browsable assets)...
+[2025.01.26-17.27.05:755][551]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/BattleWizardPolyart/Meshes/WizardBlending.WizardBlending]
+[2025.01.26-17.27.05:755][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleWizardPolyart/Meshes/WizardBlending]
+[2025.01.26-17.27.05:756][551]LogSavePackage: Moving output files for package: /Game/BattleWizardPolyart/Meshes/WizardBlending
+[2025.01.26-17.27.05:757][551]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/WizardBlending81B5FF5346E50C53B7349184A7075529.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/BattleWizardPolyart/Meshes/WizardBlending.uasset'
+[2025.01.26-17.27.05:803][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.542 ms (total: 1.16 sec)
+[2025.01.26-17.27.05:849][551]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.27.05:849][551]LogContentValidation: Enabled validators:
+[2025.01.26-17.27.05:849][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.27.05:849][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.27.05:849][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.27.05:849][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.27.05:849][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.27.05:849][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.27.05:849][551]AssetCheck: /Game/BattleWizardPolyart/Meshes/WizardBlending Validating asset
+[2025.01.26-17.27.16:279][317]LogStreaming: Display: FlushAsyncLoading(3037): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.27.23:193][ 93]LogStreaming: Display: FlushAsyncLoading(3038): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.27.23:199][ 93]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/Idle02Anim.Idle02Anim (Required Memory Estimate: 2.14 MB)
+[2025.01.26-17.27.23:233][ 93]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/Idle02Anim.Idle02Anim, at AnimationSequence/368dc1b3db625f6dde84fcc087cd69a7aa67a7a3
+[2025.01.26-17.27.42:502][218]LogStreaming: Display: FlushAsyncLoading(3039): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.27.42:508][218]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/CharacterBP/MF_Idle.MF_Idle (Required Memory Estimate: 26.03 MB)
+[2025.01.26-17.27.42:615][224]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/CharacterBP/MF_Idle.MF_Idle, at AnimationSequence/6f7acec4c22c711a42faf3271c15a53cf2c22786
+[2025.01.26-17.28.01:593][308]LogStreaming: Display: FlushAsyncLoading(3040): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.28.01:597][308]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/Idle03Anim.Idle03Anim (Required Memory Estimate: 0.63 MB)
+[2025.01.26-17.28.01:609][308]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/Idle03Anim.Idle03Anim, at AnimationSequence/f019b474fcd1bc8f8d9d365b1b1222d971d66c9c
+[2025.01.26-17.28.51:716][953]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3400.011230
+[2025.01.26-17.28.51:830][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-17.28.51:830][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3400.117676, Update Interval: 301.442902
+[2025.01.26-17.29.08:092][742]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2025.01.26-17.29.08:092][742]LogChaosDD: Creating Chaos Debug Draw Scene for world World_81
+[2025.01.26-17.29.08:101][742]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_81:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.29.08:295][742]LogChaosDD: Creating Chaos Debug Draw Scene for world World_82
+[2025.01.26-17.29.08:565][742]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.01.26-17.29.08:570][742]LogChaosDD: Creating Chaos Debug Draw Scene for world World_83
+[2025.01.26-17.29.18:920][831]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.29.18:920][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.29.18:933][831]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.29.18:933][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.29.18:985][831]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.29.18:985][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.29.19:024][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.26-17.29.53:938][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.29.53:971][246]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Player] ([2] browsable assets)...
+[2025.01.26-17.29.53:977][246]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player]
+[2025.01.26-17.29.53:977][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Player]
+[2025.01.26-17.29.53:997][246]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Player
+[2025.01.26-17.29.53:997][246]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/ABP_Player13ED438A4256D9CC6B19E29ED0F4C85D.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Characters/Mannequins/Animations/ABP_Player.uasset'
+[2025.01.26-17.29.54:005][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.297 ms (total: 1.22 sec)
+[2025.01.26-17.29.54:038][246]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.29.54:038][246]LogContentValidation: Enabled validators:
+[2025.01.26-17.29.54:038][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.29.54:038][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.29.54:038][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.29.54:038][246]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.29.54:038][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.29.54:038][246]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.29.54:039][246]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Player Validating asset
+[2025.01.26-17.30.13:250][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.26-17.30.31:935][829]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2025.01.26-17.30.31:935][829]LogChaosDD: Creating Chaos Debug Draw Scene for world World_84
+[2025.01.26-17.30.31:943][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.30.32:141][829]LogChaosDD: Creating Chaos Debug Draw Scene for world World_85
+[2025.01.26-17.30.36:664][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.30.36:709][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BattleWizardPolyart/Meshes/WizardBlending] ([1] browsable assets)...
+[2025.01.26-17.30.36:719][198]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/BattleWizardPolyart/Meshes/WizardBlending.WizardBlending]
+[2025.01.26-17.30.36:719][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleWizardPolyart/Meshes/WizardBlending]
+[2025.01.26-17.30.36:720][198]LogSavePackage: Moving output files for package: /Game/BattleWizardPolyart/Meshes/WizardBlending
+[2025.01.26-17.30.36:721][198]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/WizardBlendingD8B7382A4FA06003C2A46794468758A7.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/BattleWizardPolyart/Meshes/WizardBlending.uasset'
+[2025.01.26-17.30.36:727][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.669 ms (total: 1.29 sec)
+[2025.01.26-17.30.36:774][198]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.30.36:774][198]LogContentValidation: Enabled validators:
+[2025.01.26-17.30.36:774][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.30.36:774][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.30.36:774][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.30.36:774][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.30.36:774][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.30.36:774][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.30.36:774][198]AssetCheck: /Game/BattleWizardPolyart/Meshes/WizardBlending Validating asset
+[2025.01.26-17.31.16:747][383]LogStreaming: Display: FlushAsyncLoading(3041): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.31.16:750][383]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkLeftAnim.BattleWalkLeftAnim (Required Memory Estimate: 0.63 MB)
+[2025.01.26-17.31.16:761][383]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/BattleWalkLeftAnim.BattleWalkLeftAnim, at AnimationSequence/e40870c88cbf024f2fe6eba3251a34211edb27b8
+[2025.01.26-17.31.18:721][533]LogStreaming: Display: FlushAsyncLoading(3042): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.31.18:725][533]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/BattleWalkForwardAnim.BattleWalkForwardAnim (Required Memory Estimate: 0.63 MB)
+[2025.01.26-17.31.18:736][533]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/BattleWalkForwardAnim.BattleWalkForwardAnim, at AnimationSequence/9e2c11b743a63e1f981f11297f8c359b20d087ab
+[2025.01.26-17.31.29:931][383]LogStreaming: Display: FlushAsyncLoading(3043): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.31.29:935][383]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/WalkForwardAnim.WalkForwardAnim (Required Memory Estimate: 0.63 MB)
+[2025.01.26-17.31.29:946][383]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/WalkForwardAnim.WalkForwardAnim, at AnimationSequence/61b8b824f4db4eb9c500203864b6d434fcdb6c69
+[2025.01.26-17.31.44:051][467]LogStreaming: Display: FlushAsyncLoading(3044): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.31.44:055][467]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim (Required Memory Estimate: 0.43 MB)
+[2025.01.26-17.31.44:061][467]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/BattleRunForwardAnim.BattleRunForwardAnim, at AnimationSequence/59993b8ad83fb1b0e23f4326441f0a169ae0e09e
+[2025.01.26-17.31.52:028][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.31.52:089][ 71]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BattleWizardPolyart/Meshes/WizardBlending] ([1] browsable assets)...
+[2025.01.26-17.31.52:099][ 71]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/BattleWizardPolyart/Meshes/WizardBlending.WizardBlending]
+[2025.01.26-17.31.52:099][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleWizardPolyart/Meshes/WizardBlending]
+[2025.01.26-17.31.52:100][ 71]LogSavePackage: Moving output files for package: /Game/BattleWizardPolyart/Meshes/WizardBlending
+[2025.01.26-17.31.52:101][ 71]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/WizardBlending8FE7513C4358EEB608A58B823C3AC04F.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/BattleWizardPolyart/Meshes/WizardBlending.uasset'
+[2025.01.26-17.31.52:107][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.891 ms (total: 1.37 sec)
+[2025.01.26-17.31.52:152][ 71]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.31.52:152][ 71]LogContentValidation: Enabled validators:
+[2025.01.26-17.31.52:153][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.31.52:153][ 71]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.31.52:153][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.31.52:153][ 71]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.31.52:153][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.31.52:153][ 71]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.31.52:153][ 71]AssetCheck: /Game/BattleWizardPolyart/Meshes/WizardBlending Validating asset
+[2025.01.26-17.32.02:464][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.32.02:532][867]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BattleWizardPolyart/Meshes/WizardBlending] ([1] browsable assets)...
+[2025.01.26-17.32.02:539][867]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/BattleWizardPolyart/Meshes/WizardBlending.WizardBlending]
+[2025.01.26-17.32.02:539][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleWizardPolyart/Meshes/WizardBlending]
+[2025.01.26-17.32.02:540][867]LogSavePackage: Moving output files for package: /Game/BattleWizardPolyart/Meshes/WizardBlending
+[2025.01.26-17.32.02:540][867]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/WizardBlending0AE198034C84D09A38797396D85C8BDE.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/BattleWizardPolyart/Meshes/WizardBlending.uasset'
+[2025.01.26-17.32.02:547][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.273 ms (total: 1.45 sec)
+[2025.01.26-17.32.02:595][867]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.32.02:595][867]LogContentValidation: Enabled validators:
+[2025.01.26-17.32.02:595][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.32.02:595][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.32.02:595][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.32.02:595][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.32.02:595][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.32.02:595][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.32.02:595][867]AssetCheck: /Game/BattleWizardPolyart/Meshes/WizardBlending Validating asset
+[2025.01.26-17.32.21:270][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.32.21:329][318]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BattleWizardPolyart/Meshes/WizardBlending] ([1] browsable assets)...
+[2025.01.26-17.32.21:338][318]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/BattleWizardPolyart/Meshes/WizardBlending.WizardBlending]
+[2025.01.26-17.32.21:338][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/BattleWizardPolyart/Meshes/WizardBlending]
+[2025.01.26-17.32.21:338][318]LogSavePackage: Moving output files for package: /Game/BattleWizardPolyart/Meshes/WizardBlending
+[2025.01.26-17.32.21:339][318]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/WizardBlendingB4032B274EA33BB5840F40BBBAA0A9C1.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/BattleWizardPolyart/Meshes/WizardBlending.uasset'
+[2025.01.26-17.32.21:351][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.045 ms (total: 1.53 sec)
+[2025.01.26-17.32.21:376][318]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.32.21:376][318]LogContentValidation: Enabled validators:
+[2025.01.26-17.32.21:376][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.32.21:376][318]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.32.21:376][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.32.21:376][318]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.32.21:376][318]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.32.21:376][318]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.32.21:376][318]AssetCheck: /Game/BattleWizardPolyart/Meshes/WizardBlending Validating asset
+[2025.01.26-17.32.55:860][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.26-17.33.09:439][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.01.26-17.33.09:446][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.33.09:503][ 32]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Player] ([2] browsable assets)...
+[2025.01.26-17.33.09:511][ 32]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player]
+[2025.01.26-17.33.09:511][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Player]
+[2025.01.26-17.33.09:532][ 32]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Player
+[2025.01.26-17.33.09:533][ 32]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/ABP_Player8A8A472D412CF945D561329D8055675E.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Characters/Mannequins/Animations/ABP_Player.uasset'
+[2025.01.26-17.33.09:540][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.372 ms (total: 1.62 sec)
+[2025.01.26-17.33.09:582][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.33.09:582][ 32]LogContentValidation: Enabled validators:
+[2025.01.26-17.33.09:582][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.33.09:582][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.33.09:582][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.33.09:582][ 32]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.33.09:582][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.33.09:582][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.33.09:582][ 32]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Player Validating asset
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:175][426]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.33.40:221][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.26-17.34.09:048][616]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2025.01.26-17.34.09:114][616]LogChaosDD: Creating Chaos Debug Draw Scene for world World_86
+[2025.01.26-17.34.09:145][616]LogDerivedDataCache: C:/Users/lcv2212506/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.26-17.34.14:673][ 24]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.14:673][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.14:726][ 24]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.14:726][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.14:753][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.26-17.34.23:538][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3731.833252
+[2025.01.26-17.34.23:661][849]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-17.34.23:661][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3731.946289, Update Interval: 356.588654
+[2025.01.26-17.34.30:798][521]LogStreaming: Display: FlushAsyncLoading(3045): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.34.30:802][521]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAnim.JumpAirAnim (Required Memory Estimate: 0.25 MB)
+[2025.01.26-17.34.30:804][521]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/JumpAirAnim.JumpAirAnim, at AnimationSequence/5b4b748d19d16859d03fbe62a72f36ba06de4ef3
+[2025.01.26-17.34.30:813][521]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAnim.JumpAirAnim
+[2025.01.26-17.34.30:813][521]LogChaosDD: Creating Chaos Debug Draw Scene for world World_87
+[2025.01.26-17.34.30:820][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.34.31:016][521]LogChaosDD: Creating Chaos Debug Draw Scene for world World_88
+[2025.01.26-17.34.31:290][521]LogChaosDD: Creating Chaos Debug Draw Scene for world World_89
+[2025.01.26-17.34.33:316][682]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.33:316][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.33:329][682]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.33:329][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.33:381][682]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.33:381][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.33:423][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.01.26-17.34.36:253][935]LogStreaming: Display: FlushAsyncLoading(3046): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.34.36:257][935]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAttackAnim.JumpAirAttackAnim (Required Memory Estimate: 0.44 MB)
+[2025.01.26-17.34.36:264][935]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/JumpAirAttackAnim.JumpAirAttackAnim, at AnimationSequence/85ae9551b9fcfec16a7a87cefd41032c08356eb3
+[2025.01.26-17.34.36:274][935]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAttackAnim.JumpAirAttackAnim
+[2025.01.26-17.34.36:274][935]LogChaosDD: Creating Chaos Debug Draw Scene for world World_90
+[2025.01.26-17.34.36:279][935]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_90:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.34.36:472][935]LogChaosDD: Creating Chaos Debug Draw Scene for world World_91
+[2025.01.26-17.34.36:761][935]LogChaosDD: Creating Chaos Debug Draw Scene for world World_92
+[2025.01.26-17.34.39:281][134]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.39:281][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.39:295][134]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.39:295][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.39:347][134]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.39:347][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.39:385][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.01.26-17.34.50:631][196]LogStreaming: Display: FlushAsyncLoading(3047): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.34.50:635][196]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpStartAnim.JumpStartAnim (Required Memory Estimate: 0.38 MB)
+[2025.01.26-17.34.50:641][196]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/JumpStartAnim.JumpStartAnim, at AnimationSequence/b7076559ae8538791a09c3a6f3028b567816e5d2
+[2025.01.26-17.34.50:651][196]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BattleWizardPolyart/Animations/JumpStartAnim.JumpStartAnim
+[2025.01.26-17.34.50:652][196]LogChaosDD: Creating Chaos Debug Draw Scene for world World_93
+[2025.01.26-17.34.50:657][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.34.50:850][196]LogChaosDD: Creating Chaos Debug Draw Scene for world World_94
+[2025.01.26-17.34.51:122][196]LogChaosDD: Creating Chaos Debug Draw Scene for world World_95
+[2025.01.26-17.34.57:410][711]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.57:411][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.57:424][711]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.57:424][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.57:476][711]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.34.57:476][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.34.57:515][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:255][120]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.35.13:303][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.01.26-17.35.32:154][856]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2025.01.26-17.35.32:222][856]LogChaosDD: Creating Chaos Debug Draw Scene for world World_96
+[2025.01.26-17.35.32:271][856]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.35.32:271][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.35.32:321][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.01.26-17.35.37:379][289]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.35.37:379][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.35.37:391][289]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.35.37:391][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.35.37:437][289]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.35.37:438][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.35.37:463][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.01.26-17.35.40:056][583]LogChaosDD: Creating Chaos Debug Draw Scene for world World_97
+[2025.01.26-17.35.47:000][334]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BattleWizardPolyart/Animations/JumpAirAnim.JumpAirAnim
+[2025.01.26-17.35.47:000][334]LogChaosDD: Creating Chaos Debug Draw Scene for world World_98
+[2025.01.26-17.35.47:006][334]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.35.47:199][334]LogChaosDD: Creating Chaos Debug Draw Scene for world World_99
+[2025.01.26-17.35.47:475][334]LogChaosDD: Creating Chaos Debug Draw Scene for world World_100
+[2025.01.26-17.36.09:106][581]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.36.09:106][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.36.09:122][581]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.36.09:122][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.36.09:171][581]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.36.09:171][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.36.09:211][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.26-17.36.15:896][305]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2025.01.26-17.36.15:896][305]LogChaosDD: Creating Chaos Debug Draw Scene for world World_101
+[2025.01.26-17.36.15:903][305]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_101:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.36.16:093][305]LogChaosDD: Creating Chaos Debug Draw Scene for world World_102
+[2025.01.26-17.36.16:368][305]LogChaosDD: Creating Chaos Debug Draw Scene for world World_103
+[2025.01.26-17.36.26:354][394]LogStreaming: Display: FlushAsyncLoading(3048): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.36.26:358][394]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/JumpEndAnim.JumpEndAnim (Required Memory Estimate: 0.44 MB)
+[2025.01.26-17.36.26:365][394]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/JumpEndAnim.JumpEndAnim, at AnimationSequence/5b464e53a68fe4396321e605b260c6e587324835
+[2025.01.26-17.36.26:377][394]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/BattleWizardPolyart/Animations/JumpEndAnim.JumpEndAnim
+[2025.01.26-17.36.26:378][394]LogChaosDD: Creating Chaos Debug Draw Scene for world World_104
+[2025.01.26-17.36.26:383][394]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.36.26:574][394]LogChaosDD: Creating Chaos Debug Draw Scene for world World_105
+[2025.01.26-17.36.26:854][394]LogChaosDD: Creating Chaos Debug Draw Scene for world World_106
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: ================================================
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Total job queries 250, among them cache hits 37 (14.80%), DDC hits 199 (79.60%), Duplicates 5 (2.00%)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Tracking 208 distinct input hashes that result in 178 distinct outputs (85.58%)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: RAM used: 128.47 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Average time worker was idle: 3695.32 s
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Job execution time: average 2.19 s, max 3.23 s
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Job life time (pending + execution): average 2.28 s, max 3.31
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Shader code size: average 6.893 KiB, min 4.113 KiB, max 10.113 KiB
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.03 s
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Average processing rate: 1.79 jobs/sec
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Total thread time: 4.543 s
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Total thread preprocess time: 3.106 s
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Percentage time preprocessing: 68.37%
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Effective parallelization: 0.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.57 sec, max 0.60 sec, min 0.55 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.41 sec, max 0.43 sec, min 0.39 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.38 sec, max 0.40 sec, min 0.36 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.36 sec, max 0.38 sec, min 0.34 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.28% of total time (compiled    2 times, average 0.57 sec, max 0.60 sec, min 0.55 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.98% of total time (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                                 FLumenCardPS - 18.00% of total time (compiled    2 times, average 0.41 sec, max 0.43 sec, min 0.39 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.76% of total time (compiled    2 times, average 0.38 sec, max 0.40 sec, min 0.36 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.98% of total time (compiled    2 times, average 0.36 sec, max 0.38 sec, min 0.34 sec)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: === Material stats ===
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Materials Translated:    139
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Material Translation Only: 0.02 s (20%)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: Material Cache Hits: 23 (17%)
+[2025.01.26-17.36.29:035][597]LogShaderCompilers: Display: ================================================
+[2025.01.26-17.36.29:188][608]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.36.29:188][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.36.29:201][608]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.36.29:201][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.36.29:253][608]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.36.29:253][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.36.29:307][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:271][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:272][921]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.36.42:316][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.26-17.37.04:174][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.37.04:230][180]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Player] ([2] browsable assets)...
+[2025.01.26-17.37.04:239][180]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player]
+[2025.01.26-17.37.04:239][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Player]
+[2025.01.26-17.37.04:266][180]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Player
+[2025.01.26-17.37.04:266][180]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/ABP_Player40381A1C4DE9285FC2B321BAAF2968C2.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Characters/Mannequins/Animations/ABP_Player.uasset'
+[2025.01.26-17.37.04:275][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.140 ms (total: 1.72 sec)
+[2025.01.26-17.37.04:310][180]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.37.04:310][180]LogContentValidation: Enabled validators:
+[2025.01.26-17.37.04:310][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.37.04:310][180]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.37.04:310][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.37.04:310][180]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.37.04:310][180]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.37.04:310][180]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.37.04:310][180]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Player Validating asset
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:432][404]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.06:477][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.26-17.37.27:945][646]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK
+[2025.01.26-17.37.27:945][646]LogChaosDD: Creating Chaos Debug Draw Scene for world World_107
+[2025.01.26-17.37.27:995][646]LogChaosDD: Creating Chaos Debug Draw Scene for world World_108
+[2025.01.26-17.37.28:005][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.37.28:005][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_108:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:035][646]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.28:095][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.26-17.37.36:005][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:006][282]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.37.36:089][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.26-17.38.01:562][377]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.38.01:562][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.38.01:574][377]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.38.01:574][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.38.01:627][377]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.38.01:627][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.38.01:654][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:261][123]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.39.33:304][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.01.26-17.40.07:989][115]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.01.26-17.40.07:990][115]LogChaosDD: Creating Chaos Debug Draw Scene for world World_109
+[2025.01.26-17.40.10:077][288]LogChaosDD: Creating Chaos Debug Draw Scene for world World_110
+[2025.01.26-17.40.22:015][530]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.01.26-17.40.27:538][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.40.27:577][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.26-17.40.27:582][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.26-17.40.27:582][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.26-17.40.27:595][122]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.26-17.40.27:595][122]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/BP_ThirdPersonCharacterC61838454AEBBF80C2CEE7B2C3B7D766.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.26-17.40.27:603][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.227 ms (total: 1.79 sec)
+[2025.01.26-17.40.27:662][122]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.40.27:662][122]LogContentValidation: Enabled validators:
+[2025.01.26-17.40.27:662][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.40.27:662][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.40.27:662][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.40.27:662][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.40.27:662][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.40.27:662][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.40.27:662][122]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.26-17.40.30:734][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.26-17.40.33:353][717]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.26-17.40.33:358][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-17.40.33:397][717]LogPlayLevel: Creating play world package: /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.40.33:398][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000838s)
+[2025.01.26-17.40.33:398][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Levels/MainMenu.MainMenu to /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.000869s)
+[2025.01.26-17.40.33:411][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.01.26-17.40.33:415][717]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.01.26-17.40.33:416][717]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2025.01.26-17.40.33:418][717]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.01.26-17.40.33:418][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-17.40.33:418][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-17.40.33:418][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-17.40.33:418][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-17.40.33:418][717]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.26-17.40.33:418][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-17.40.33:418][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.26-17.40.33:418][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-17.40.33:418][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-17.40.33:418][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-17.40.33:418][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-17.40.33:420][717]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-17.40.33:430][717]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.26-17.40.33:430][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-17.40.33:430][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-17.40.33:430][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-17.40.33:431][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.01.26-17.40.33:431][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.01.26-17.40.33:432][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.01.26-17.40.33:432][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.01.26-17.40.33:432][717]LogInit: FAudioDevice initialized with ID 15.
+[2025.01.26-17.40.33:432][717]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenu'.
+[2025.01.26-17.40.33:432][717]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.01.26-17.40.33:434][717]LogLoad: Game class is 'MenuGameMode_C'
+[2025.01.26-17.40.33:435][717]LogWorld: Bringing World /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.01.26-09.40.33
+[2025.01.26-17.40.33:435][717]LogWorld: Bringing up level for play took: 0.000357
+[2025.01.26-17.40.33:437][717]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2025.01.26-17.40.33:439][717]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.26-17.40.33:439][717]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.26-17.40.33:439][717]PIE: Server logged in
+[2025.01.26-17.40.33:440][717]PIE: Play in editor total start time 0.083 seconds.
+[2025.01.26-17.40.34:149][792]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.26-17.40.34:150][792]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.01.26-17.40.34:150][792]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap"
+[2025.01.26-17.40.34:150][792]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.40.34:150][792]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.40.34:150][792]LogWorld: BeginTearingDown for /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.40.34:151][792]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.40.34:151][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.40.34:190][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-17.40.34:192][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.26-17.40.34:194][792]LogStreaming: Display: FlushAsyncLoading(3049): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.40.34:199][792]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2025.01.26-17.40.34:199][792]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.26-17.40.34:200][792]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-17.40.34:200][792]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-17.40.34:200][792]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.01.26-17.40.34:200][792]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-17.40.34:209][792]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.26-17.40.34:227][792]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/FirstPerson/Maps/FirstPersonMap (0xAB684108FF182619) that has been renamed to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap (0x20BFD38F37AC2C58)
+[2025.01.26-17.40.34:331][792]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 121.728 ms (total: 601.014 ms)
+[2025.01.26-17.40.34:340][792]LogWorldPartition: Display: WorldPartition initialize took 140.533 ms (total: 969.508 ms)
+[2025.01.26-17.40.34:340][792]LogPlayLevel: PIE: World Init took: (0.141705s)
+[2025.01.26-17.40.34:340][792]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-17.40.34:405][792]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.26-09.40.34
+[2025.01.26-17.40.34:410][792]LogWorld: Bringing up level for play took: 0.069403
+[2025.01.26-17.40.34:415][792]LogLoad: Took 0.264535 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2025.01.26-17.40.34:415][792]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.40.44:406][644]PIE: Warning: Trying to play a non-additive animation 'JumpEndAnim' into a pose that is expected to be additive in anim instance 'ABP_Player_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Player_C_0'
+[2025.01.26-17.41.08:868][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.41.08:868][762]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.26-17.41.08:870][762]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.41.08:874][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.41.08:874][762]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.26-17.41.08:881][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-17.41.08:887][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.41.08:906][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.41.08:906][762]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.01.26-17.41.08:906][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.01.26-17.41.08:908][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.01.26-17.41.08:925][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.26-17.41.09:030][763]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2025.01.26-17.41.18:486][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4146.807129
+[2025.01.26-17.41.18:617][871]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-17.41.18:617][871]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4146.930176, Update Interval: 305.343170
+[2025.01.26-17.42.31:904][533]LogSlate: Window 'Message Log' being destroyed
+[2025.01.26-17.42.31:910][533]LogSlate: Window 'Message Log' being destroyed
+[2025.01.26-17.43.04:525][730]LogStreaming: Display: FlushAsyncLoading(3670): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.43.04:530][730]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/BattleWizardPolyart/Animations/Attack03StartAnim.Attack03StartAnim (Required Memory Estimate: 0.63 MB)
+[2025.01.26-17.43.04:540][730]LogAnimationCompression: Display: Storing compressed animation data for /Game/BattleWizardPolyart/Animations/Attack03StartAnim.Attack03StartAnim, at AnimationSequence/080c643ad49ee1b281fb8bf1773e7bab6307e8b8
+[2025.01.26-17.43.39:206][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.26-17.43.41:273][368]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.26-17.43.41:281][368]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2025.01.26-17.43.41:284][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:284][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:284][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:284][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:284][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:284][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:284][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:285][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:285][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:285][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:285][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:285][368]LogBlueprint: Warning: [AssetLog] C:\Users\lcv2212506\Desktop\GGJ-2025\GGJ_2025\Content\Characters\Mannequins\Animations\ABP_Player.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2025.01.26-17.43.41:343][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.26-17.43.41:347][368]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2025.01.26-17.43.41:383][368]LogPlayLevel: Creating play world package: /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.43.41:384][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000870s)
+[2025.01.26-17.43.41:384][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Levels/MainMenu.MainMenu to /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.000901s)
+[2025.01.26-17.43.41:398][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.26-17.43.41:399][368]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.01.26-17.43.41:401][368]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2025.01.26-17.43.41:402][368]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.01.26-17.43.41:402][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-17.43.41:402][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-17.43.41:402][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-17.43.41:402][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-17.43.41:402][368]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.26-17.43.41:402][368]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-17.43.41:402][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.26-17.43.41:402][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-17.43.41:402][368]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-17.43.41:402][368]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-17.43.41:402][368]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-17.43.41:403][368]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-17.43.41:413][368]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.26-17.43.41:413][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-17.43.41:413][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-17.43.41:413][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-17.43.41:414][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.01.26-17.43.41:414][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.01.26-17.43.41:415][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.01.26-17.43.41:415][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.01.26-17.43.41:415][368]LogInit: FAudioDevice initialized with ID 16.
+[2025.01.26-17.43.41:415][368]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2025.01.26-17.43.41:415][368]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.01.26-17.43.41:418][368]LogLoad: Game class is 'MenuGameMode_C'
+[2025.01.26-17.43.41:418][368]LogWorld: Bringing World /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.01.26-09.43.41
+[2025.01.26-17.43.41:418][368]LogWorld: Bringing up level for play took: 0.000339
+[2025.01.26-17.43.41:419][368]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2025.01.26-17.43.41:421][368]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.26-17.43.41:421][368]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.26-17.43.41:421][368]PIE: Server logged in
+[2025.01.26-17.43.41:423][368]PIE: Play in editor total start time 0.144 seconds.
+[2025.01.26-17.43.42:485][490]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.26-17.43.42:485][490]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.01.26-17.43.42:486][490]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap"
+[2025.01.26-17.43.42:486][490]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.43.42:486][490]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.43.42:486][490]LogWorld: BeginTearingDown for /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.43.42:487][490]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.43.42:487][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.43.42:536][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-17.43.42:537][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.26-17.43.42:539][490]LogStreaming: Display: FlushAsyncLoading(3671): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.43.42:543][490]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2025.01.26-17.43.42:543][490]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.26-17.43.42:545][490]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-17.43.42:545][490]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-17.43.42:545][490]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.01.26-17.43.42:545][490]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-17.43.42:555][490]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.26-17.43.42:574][490]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/FirstPerson/Maps/FirstPersonMap (0xAB684108FF182619) that has been renamed to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap (0x20BFD38F37AC2C58)
+[2025.01.26-17.43.42:679][490]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 123.413 ms (total: 724.427 ms)
+[2025.01.26-17.43.42:687][490]LogWorldPartition: Display: WorldPartition initialize took 142.774 ms (total: 1.11 sec)
+[2025.01.26-17.43.42:687][490]LogPlayLevel: PIE: World Init took: (0.144060s)
+[2025.01.26-17.43.42:687][490]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-17.43.42:752][490]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.26-09.43.42
+[2025.01.26-17.43.42:757][490]LogWorld: Bringing up level for play took: 0.069072
+[2025.01.26-17.43.42:761][490]LogLoad: Took 0.274288 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2025.01.26-17.43.42:761][490]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.44.16:473][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.44.16:473][442]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.26-17.44.16:475][442]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.44.16:480][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.44.16:480][442]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.26-17.44.16:486][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-17.44.16:489][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.44.16:506][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.44.16:506][442]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.01.26-17.44.16:506][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.01.26-17.44.16:509][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.01.26-17.44.16:522][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.26-17.44.16:546][443]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2025.01.26-17.44.51:448][150]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UEnhancedInputSubsystemInterface::AddMappingContext' [Element not found.]
+[2025.01.26-17.44.53:453][338]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.44.53:453][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.44.53:472][338]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.44.53:472][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.44.53:708][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.01.26-17.44.54:902][470]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.44.54:902][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.44.54:932][470]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.44.54:932][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.44.54:998][470]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.44.54:998][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.44.55:019][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.01.26-17.46.43:588][755]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.46.43:588][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.46.43:614][755]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.46.43:614][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.46.43:663][755]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.46.43:663][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.46.43:689][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.26-17.46.59:631][608]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Game/Animation/CactusEnemyAnim.CactusEnemyAnim
+[2025.01.26-17.46.59:632][608]LogChaosDD: Creating Chaos Debug Draw Scene for world World_111
+[2025.01.26-17.46.59:638][608]LogChaosDD: Creating Chaos Debug Draw Scene for world World_112
+[2025.01.26-17.46.59:643][608]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_112:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.26-17.46.59:857][608]LogChaosDD: Creating Chaos Debug Draw Scene for world World_113
+[2025.01.26-17.47.23:609][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4511.893066
+[2025.01.26-17.47.23:751][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-17.47.23:751][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4512.025879, Update Interval: 354.043396
+[2025.01.26-17.49.45:649][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.26-17.50.03:686][110]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputSubsystems.h 
+[2025.01.26-17.50.03:837][110]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputSubsystems.h : 42
+[2025.01.26-17.50.03:837][110]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:844][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:845][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:846][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:847][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:852][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:852][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:860][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:861][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:861][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:862][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:862][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:876][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:881][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:882][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:882][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:929][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:935][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:936][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:937][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:938][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:938][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:938][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:943][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:943][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:950][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:951][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:951][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:952][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:952][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:967][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:971][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:972][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.03:972][110]LogVSAccessor: Warning: Couldn't access module table
+[2025.01.26-17.50.24:790][ 32]LogStreaming: Display: FlushAsyncLoading(4292): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.50.24:933][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim (Required Memory Estimate: 2.80 MB)
+[2025.01.26-17.50.24:933][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim (Required Memory Estimate: 2.80 MB)
+[2025.01.26-17.50.24:933][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim (Required Memory Estimate: 2.35 MB)
+[2025.01.26-17.50.24:947][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim (Required Memory Estimate: 2.35 MB)
+[2025.01.26-17.50.24:949][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/1fb58284e95dc98903d95980509ebeafe8b05488
+[2025.01.26-17.50.24:952][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/8d77eedbc5bc865a73c963ae0494c57c91acaf0d
+[2025.01.26-17.50.24:952][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim (Required Memory Estimate: 1.45 MB)
+[2025.01.26-17.50.24:952][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/eb1f3645132c19c6f45501b2ca3c9f8f718c081d
+[2025.01.26-17.50.24:956][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim (Required Memory Estimate: 1.45 MB)
+[2025.01.26-17.50.24:958][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/4dcd365de0f93bc0c094c751bef04a34b3d44e1a
+[2025.01.26-17.50.24:960][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim (Required Memory Estimate: 1.90 MB)
+[2025.01.26-17.50.24:960][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/49dcf63837ae8f0e33a27bcef11a767527a39b20
+[2025.01.26-17.50.24:965][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim (Required Memory Estimate: 1.90 MB)
+[2025.01.26-17.50.24:966][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/3c589734e79e4e99d4a5eef6cbd5f5a4c4796868
+[2025.01.26-17.50.24:968][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/1319c50ce557b5dfded879a23133bdb4ae578fcc
+[2025.01.26-17.50.24:969][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim (Required Memory Estimate: 4.61 MB)
+[2025.01.26-17.50.24:974][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/e0a14c4fcca154095db338afcd243aca2f0daa7a
+[2025.01.26-17.50.24:974][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim (Required Memory Estimate: 4.61 MB)
+[2025.01.26-17.50.24:979][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim (Required Memory Estimate: 6.41 MB)
+[2025.01.26-17.50.24:983][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim (Required Memory Estimate: 6.41 MB)
+[2025.01.26-17.50.24:985][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/361b1c12382886286f2c15e84e0d602725841af9
+[2025.01.26-17.50.24:989][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim (Required Memory Estimate: 5.51 MB)
+[2025.01.26-17.50.24:997][ 32]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim (Required Memory Estimate: 5.51 MB)
+[2025.01.26-17.50.24:998][ 32]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2025.01.26-17.50.24:999][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/cc2b1e6f452301a13abebf6c4a7eae6d43660a29
+[2025.01.26-17.50.25:009][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/0111d097422079b6a0998ed49447b61877c6c8e2
+[2025.01.26-17.50.25:015][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/7fc68fd196454c3471deb75402ae225556c50db9
+[2025.01.26-17.50.25:017][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/c6aa84b1fb6b08c5ec00f3eadebc3fcfc16e3c35
+[2025.01.26-17.50.25:021][ 32]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/96f0ad002e8a0d6ae8ef4c7c223051d2ee49d14d
+[2025.01.26-17.50.25:052][ 32]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2025.01.26-17.50.26:038][ 32]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.26-17.50.27:378][ 32]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2025.01.26-17.50.27:378][ 32]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2025.01.26-17.50.29:941][ 32]LogSkeletalMesh: Skeletal mesh [/Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn]: The derived data key is different after the build. Save the asset to avoid rebuilding it everytime the editor load it.
+[2025.01.26-17.50.29:956][ 32]LogSkeletalMesh: Built Skeletal Mesh [4.96s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2025.01.26-17.51.22:026][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.51.22:060][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.26-17.51.22:091][849]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.26-17.51.22:091][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.26-17.51.22:104][849]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.26-17.51.22:104][849]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/BP_ThirdPersonCharacterE81DCED74D7A80D32D270DAC91D39F98.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.26-17.51.22:110][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.839 ms (total: 1.87 sec)
+[2025.01.26-17.51.22:144][849]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.51.22:144][849]LogContentValidation: Enabled validators:
+[2025.01.26-17.51.22:144][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.51.22:144][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.51.22:144][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.51.22:144][849]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.51.22:144][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.51.22:144][849]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.51.22:144][849]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.26-17.51.22:521][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.01.26-17.51.23:866][ 25]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.26-17.51.23:870][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-17.51.23:906][ 25]LogPlayLevel: Creating play world package: /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.51.23:907][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000859s)
+[2025.01.26-17.51.23:907][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Levels/MainMenu.MainMenu to /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.000891s)
+[2025.01.26-17.51.23:920][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.01.26-17.51.23:925][ 25]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.01.26-17.51.23:926][ 25]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2025.01.26-17.51.23:927][ 25]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.01.26-17.51.23:927][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-17.51.23:927][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-17.51.23:927][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-17.51.23:927][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-17.51.23:927][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.26-17.51.23:927][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-17.51.23:927][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.26-17.51.23:927][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-17.51.23:927][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-17.51.23:927][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-17.51.23:927][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-17.51.23:929][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-17.51.23:938][ 25]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.26-17.51.23:938][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-17.51.23:938][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-17.51.23:938][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-17.51.23:939][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.01.26-17.51.23:939][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.01.26-17.51.23:941][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.01.26-17.51.23:941][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.01.26-17.51.23:941][ 25]LogInit: FAudioDevice initialized with ID 17.
+[2025.01.26-17.51.23:941][ 25]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu'.
+[2025.01.26-17.51.23:941][ 25]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.01.26-17.51.23:943][ 25]LogLoad: Game class is 'MenuGameMode_C'
+[2025.01.26-17.51.23:943][ 25]LogWorld: Bringing World /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.01.26-09.51.23
+[2025.01.26-17.51.23:943][ 25]LogWorld: Bringing up level for play took: 0.000339
+[2025.01.26-17.51.23:945][ 25]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2025.01.26-17.51.23:946][ 25]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.26-17.51.23:946][ 25]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.26-17.51.23:947][ 25]PIE: Server logged in
+[2025.01.26-17.51.23:948][ 25]PIE: Play in editor total start time 0.078 seconds.
+[2025.01.26-17.51.24:885][133]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.26-17.51.24:885][133]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.01.26-17.51.24:886][133]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap"
+[2025.01.26-17.51.24:886][133]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.51.24:886][133]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.51.24:886][133]LogWorld: BeginTearingDown for /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.51.24:887][133]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.51.24:887][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.51.24:939][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-17.51.24:941][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.26-17.51.24:942][133]LogStreaming: Display: FlushAsyncLoading(4293): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.51.24:948][133]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonMap'.
+[2025.01.26-17.51.24:948][133]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.26-17.51.24:949][133]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-17.51.24:949][133]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-17.51.24:949][133]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.01.26-17.51.24:949][133]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-17.51.24:958][133]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.26-17.51.24:976][133]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/FirstPerson/Maps/FirstPersonMap (0xAB684108FF182619) that has been renamed to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap (0x20BFD38F37AC2C58)
+[2025.01.26-17.51.25:078][133]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 119.622 ms (total: 844.050 ms)
+[2025.01.26-17.51.25:087][133]LogWorldPartition: Display: WorldPartition initialize took 138.477 ms (total: 1.25 sec)
+[2025.01.26-17.51.25:087][133]LogPlayLevel: PIE: World Init took: (0.139749s)
+[2025.01.26-17.51.25:087][133]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-17.51.25:152][133]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.26-09.51.25
+[2025.01.26-17.51.25:156][133]LogWorld: Bringing up level for play took: 0.068927
+[2025.01.26-17.51.25:161][133]LogLoad: Took 0.275165 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2025.01.26-17.51.25:161][133]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.51.51:116][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.51.51:116][479]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.26-17.51.51:118][479]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.51.51:122][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.51.51:122][479]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.26-17.51.51:129][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-17.51.51:133][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.51.51:158][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.51.51:158][479]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.01.26-17.51.51:158][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.01.26-17.51.51:160][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.01.26-17.51.51:175][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.26-17.51.51:198][480]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2025.01.26-17.52.00:635][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.26-17.52.02:390][755]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.26-17.52.02:394][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.26-17.52.02:426][755]LogPlayLevel: Creating play world package: /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.52.02:427][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000865s)
+[2025.01.26-17.52.02:427][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Levels/MainMenu.MainMenu to /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.000895s)
+[2025.01.26-17.52.02:441][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.26-17.52.02:445][755]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.01.26-17.52.02:446][755]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2025.01.26-17.52.02:447][755]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.01.26-17.52.02:447][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.26-17.52.02:447][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.26-17.52.02:447][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.26-17.52.02:447][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.26-17.52.02:447][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.26-17.52.02:447][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.26-17.52.02:447][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.26-17.52.02:447][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.26-17.52.02:447][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.26-17.52.02:447][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.26-17.52.02:447][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.26-17.52.02:449][755]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.26-17.52.02:457][755]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2025.01.26-17.52.02:457][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.26-17.52.02:458][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.26-17.52.02:458][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.26-17.52.02:458][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.01.26-17.52.02:458][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.01.26-17.52.02:461][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.01.26-17.52.02:461][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.01.26-17.52.02:461][755]LogInit: FAudioDevice initialized with ID 18.
+[2025.01.26-17.52.02:461][755]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu'.
+[2025.01.26-17.52.02:461][755]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.01.26-17.52.02:463][755]LogLoad: Game class is 'MenuGameMode_C'
+[2025.01.26-17.52.02:463][755]LogWorld: Bringing World /Game/Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.01.26-09.52.02
+[2025.01.26-17.52.02:463][755]LogWorld: Bringing up level for play took: 0.000298
+[2025.01.26-17.52.02:465][755]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2025.01.26-17.52.02:466][755]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.01.26-17.52.02:466][755]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.01.26-17.52.02:467][755]PIE: Server logged in
+[2025.01.26-17.52.02:467][755]PIE: Play in editor total start time 0.073 seconds.
+[2025.01.26-17.52.03:407][863]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.01.26-17.52.03:407][863]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.01.26-17.52.03:409][863]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap"
+[2025.01.26-17.52.03:409][863]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.52.03:409][863]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.52.03:409][863]LogWorld: BeginTearingDown for /Game/Game/Levels/UEDPIE_0_MainMenu
+[2025.01.26-17.52.03:410][863]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.52.03:410][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.52.03:458][863]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.26-17.52.03:460][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.01.26-17.52.03:462][863]LogStreaming: Display: FlushAsyncLoading(4914): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.26-17.52.03:466][863]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap'.
+[2025.01.26-17.52.03:466][863]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.01.26-17.52.03:468][863]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.26-17.52.03:468][863]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.26-17.52.03:468][863]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.01.26-17.52.03:468][863]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.26-17.52.03:478][863]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.01.26-17.52.03:497][863]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/FirstPerson/Maps/FirstPersonMap (0xAB684108FF182619) that has been renamed to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap (0x20BFD38F37AC2C58)
+[2025.01.26-17.52.03:607][863]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 128.817 ms (total: 972.867 ms)
+[2025.01.26-17.52.03:617][863]LogWorldPartition: Display: WorldPartition initialize took 148.718 ms (total: 1.39 sec)
+[2025.01.26-17.52.03:617][863]LogPlayLevel: PIE: World Init took: (0.149909s)
+[2025.01.26-17.52.03:617][863]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.26-17.52.03:684][863]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.01.26-09.52.03
+[2025.01.26-17.52.03:688][863]LogWorld: Bringing up level for play took: 0.070840
+[2025.01.26-17.52.03:692][863]LogLoad: Took 0.283151 seconds to LoadMap(/Game/FirstPerson/Maps/FirstPersonMap)
+[2025.01.26-17.52.03:692][863]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/FirstPersonMap
+[2025.01.26-17.52.05:877][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.52.05:877][ 55]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.01.26-17.52.05:879][ 55]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.26-17.52.05:883][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.52.05:883][ 55]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.01.26-17.52.05:889][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.26-17.52.05:894][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.26-17.52.05:912][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.26-17.52.05:912][ 55]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.01.26-17.52.05:913][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.01.26-17.52.05:915][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.01.26-17.52.05:928][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.26-17.52.05:952][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2025.01.26-17.53.23:057][ 68]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.26-17.53.23:062][ 68]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.26-17.53.23:068][ 69]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.26-17.53.24:647][259]LogContentBrowser: Attempting asset rename: NewFolder -> Enums
+[2025.01.26-17.53.24:647][259]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.26-17.53.31:624][ 34]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.01.26-17.53.31:631][ 34]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.01.26-17.53.31:648][ 36]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.01.26-17.53.41:121][173]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> EPlayerState
+[2025.01.26-17.53.41:122][173]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.01.26-17.53.42:711][361]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Game/Enums/EPlayerState.EPlayerState
+[2025.01.26-17.53.55:368][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4903.622070
+[2025.01.26-17.53.55:485][852]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.26-17.53.55:485][852]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4903.730469, Update Interval: 325.765564
+[2025.01.26-17.54.05:699][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.54.05:728][ 68]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Enums/EPlayerState] ([1] browsable assets)...
+[2025.01.26-17.54.05:728][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Enums/EPlayerState]
+[2025.01.26-17.54.05:728][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Enums/EPlayerState" FILE="../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Enums/EPlayerState.uasset" SILENT=true
+[2025.01.26-17.54.05:729][ 68]LogSavePackage: Moving output files for package: /Game/Game/Enums/EPlayerState
+[2025.01.26-17.54.05:729][ 68]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/EPlayerStateD34A77EA441EE30FEA26DC8E8E65F812.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Game/Enums/EPlayerState.uasset'
+[2025.01.26-17.54.05:734][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.627 ms (total: 1.90 sec)
+[2025.01.26-17.54.05:760][ 68]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.26-17.54.05:760][ 68]LogContentValidation: Enabled validators:
+[2025.01.26-17.54.05:760][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.54.05:760][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.54.05:760][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.54.05:760][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.54.05:760][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.54.05:761][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.54.05:761][ 68]AssetCheck: /Game/Game/Enums/EPlayerState Validating asset
+[2025.01.26-17.54.06:984][213]LogSlate: Window 'EPlayerState' being destroyed
+[2025.01.26-17.54.15:889][243]LogSlate: Took 0.004976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.01.26-17.54.35:569][616]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.01.26-17.55.43:512][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.26-17.55.43:517][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-17.55.43:578][582]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.01.26-17.55.43:616][582]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.01.26-17.55.43:616][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.01.26-17.55.43:628][582]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.26-17.55.43:628][582]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/BP_ThirdPersonCharacter866044834D3F2C2CE8D65EB63394704A.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.26-17.55.43:629][582]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK] ([2] browsable assets)...
+[2025.01.26-17.55.43:629][582]LogChaosDD: Creating Chaos Debug Draw Scene for world World_114
+[2025.01.26-17.55.43:645][582]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK]
+[2025.01.26-17.55.43:645][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK]
+[2025.01.26-17.55.43:678][582]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK
+[2025.01.26-17.55.43:678][582]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/CR_Mannequin_BasicFootIK42E8A0FE43EFE28C1A792296F014C0FF.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset'
+[2025.01.26-17.55.43:746][582]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Player] ([2] browsable assets)...
+[2025.01.26-17.55.43:754][582]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Player.ABP_Player]
+[2025.01.26-17.55.43:754][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Player]
+[2025.01.26-17.55.43:779][582]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Player
+[2025.01.26-17.55.43:779][582]LogSavePackage: Moving '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Saved/ABP_PlayerB490DAE5403325C92F1E2AA6588A544D.tmp' to '../../../../../../Users/lcv2212506/Desktop/GGJ-2025/GGJ_2025/Content/Characters/Mannequins/Animations/ABP_Player.uasset'
+[2025.01.26-17.55.43:786][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 269.155 ms (total: 2.17 sec)
+[2025.01.26-17.55.43:824][582]LogContentValidation: Display: Starting to validate 3 assets
+[2025.01.26-17.55.43:824][582]LogContentValidation: Enabled validators:
+[2025.01.26-17.55.43:824][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.26-17.55.43:824][582]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.26-17.55.43:824][582]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.26-17.55.43:824][582]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.26-17.55.43:824][582]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.26-17.55.43:824][582]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.26-17.55.43:824][582]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.01.26-17.55.43:824][582]AssetCheck: /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK Validating asset
+[2025.01.26-17.55.43:824][582]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Player Validating asset
+[2025.01.26-17.55.44:468][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
