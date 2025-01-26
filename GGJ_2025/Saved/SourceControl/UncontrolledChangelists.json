@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/86/Z1JSZ1734QX6KK0O8EEAZU.uasset",
+				"C:/Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Enumeration/EStatesAI.uasset",
+				"C:/Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/EnemyBaseTree.uasset",
+				"C:/Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/ThirdPerson/Blueprints/EnemyControllerAI.uasset",
+				"C:/Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Decorators/ShowStayIdle.uasset",
+				"C:/Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Game/Gameplay/AI/Decorators/ShouldStayIdle.uasset",
+				"C:/Users/lcv2212506.LCIEDUCATION/Documents/GitHub/GGJ-2025/GGJ_2025/Content/Game/Gameplay/BP_EnemyAI.uasset",
 				"C:/Users/LCV2132556/Desktop/GGJ-2025/GGJ_2025/Content/Materials/M_Bubble.uasset",
 				"C:/Users/LCV2132556/Desktop/GGJ-2025/GGJ_2025/Content/Textures/GUI/MainMenu.uasset",
 				"C:/Users/LCV2132556/Desktop/GGJ-2025/GGJ_2025/Content/Game/UI/MainMenu.uasset",
